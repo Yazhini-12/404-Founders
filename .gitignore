@@ -17,3 +17,7 @@ env/
 .ds_store
 .vscode/
 .idea/
+
+# Frontend build artifacts
+frontend/node_modules/
+frontend/dist/
