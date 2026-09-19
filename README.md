@@ -45,6 +45,11 @@ An end-to-end backend system built with **FastAPI**, **Supabase PostgreSQL**, an
 
 ```
 talent ai/
+├── frontend/                    # React + Vite application
+│   ├── src/                     # Pages, layouts, components, services, and mock data
+│   ├── public/                  # Static assets
+│   ├── package.json             # Frontend dependencies and scripts
+│   └── vite.config.js           # Vite configuration
 ├── backend/
 │   └── app/
 │       ├── main.py                  # FastAPI application entry point & CORS
@@ -117,6 +122,18 @@ CORS_ORIGINS=http://localhost:5173,http://localhost:3000
 ```
 
 > **Note:** If `SUPABASE_URL` is not set or set to default template, the backend automatically uses the built-in local JSON dataset provider so you can test the application end-to-end immediately!
+
+### 3. Running the React Frontend
+
+In a second terminal, install the frontend dependencies and start Vite:
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+The frontend will run at `http://localhost:5173`.
 
 ---
 
