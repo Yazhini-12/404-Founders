@@ -129,7 +129,7 @@ class MatchingService:
         }
 
     @staticmethod
-    def get_role_matches_for_employee(employee_code: str):
+    def get_role_matches_for_employee(employee_code: str, exclude_current_role: bool = True):
         emp = EmployeeService.get_employee_by_code(employee_code)
         if not emp:
             return []
@@ -137,7 +137,12 @@ class MatchingService:
         all_roles = RoleService.get_all_roles()
         matches = []
 
+        current_role_id = emp.get("current_role_id")
+
         for role in all_roles:
+            if exclude_current_role and current_role_id and role["id"] == current_role_id:
+                continue
+
             match_res = MatchingService.match_employee_to_role(employee_code, role["id"])
             if match_res:
                 matches.append(match_res)

@@ -5,6 +5,7 @@ from backend.app.services.employee_service import EmployeeService
 from backend.app.services.matching_service import MatchingService
 from backend.app.services.skill_gap_service import SkillGapService
 from backend.app.services.roadmap_service import RoadmapService
+from backend.app.services.career_assistant_service import CareerAssistantService
 
 router = APIRouter(prefix="/ai", tags=["AI Engine Modular Interface"])
 
@@ -102,44 +103,11 @@ def ai_career_roadmap(payload: RoadmapAIRequest):
 @router.post("/chat")
 def ai_career_assistant_chat(payload: AIChatRequest):
     """
-    RAG AI Career Assistant Chat Interface.
-    Retrieves full contextual data for an employee (profile, skills, role matches, skill gaps, learning)
-    and formats a structured AI Career Assistant response.
+    Grounded AI Career Assistant Chat Endpoint.
+    Uses Google Gemini (when GEMINI_API_KEY is configured) grounded strictly in authentic employee backend context.
+    Falls back gracefully to a deterministic career assistant response if Gemini is unconfigured or unavailable.
     """
-    emp = EmployeeService.get_employee_by_code(payload.employee_code)
-    if not emp:
-        raise HTTPException(status_code=404, detail=f"Employee {payload.employee_code} not found.")
-
-    passport = EmployeeService.get_skill_passport(payload.employee_code)
-    matches = MatchingService.get_role_matches_for_employee(payload.employee_code)
-
-    top_match = matches[0] if matches else None
-    target_role_title = emp.get("career_interest_role_title", "target role")
-
-    # Contextual structured answer format for frontend chat component
-    reply = (
-        f"Hello {emp['name']}! I am your AI Career Mobility Assistant. "
-        f"I analyzed your profile as a {emp.get('current_role_title', 'Employee')}.\n\n"
-        f"Your top career match is **{top_match['role_title'] if top_match else target_role_title}** "
-        f"with a **{top_match['match_score'] if top_match else 'N/A'}% match score** ({top_match['match_level'] if top_match else ''}).\n\n"
-    )
-
-    if top_match and top_match.get("missing_skills"):
-        reply += f"To reach your goal, prioritize building skills in: {', '.join(top_match['missing_skills'])}. "
-
-    if top_match and top_match.get("skills_to_improve"):
-        reply += f"Also deepen proficiency in: {', '.join(top_match['skills_to_improve'])}."
-
-    return {
-        "employee_code": payload.employee_code,
-        "user_message": payload.message,
-        "ai_response": reply,
-        "context_retrieved": {
-            "employee_name": emp["name"],
-            "current_role": emp.get("current_role_title"),
-            "skill_count": len(passport["explicit_skills"]) + len(passport["inferred_skills"]),
-            "top_match": top_match
-        },
-        "llm_connected": False,
-        "note": "Modular interface ready for open-source LLM/RAG integration."
-    }
+    res = CareerAssistantService.answer_career_question(payload.employee_code, payload.message)
+    if res.get("status_code") != 200:
+        raise HTTPException(status_code=res["status_code"], detail=res.get("error", "Error in AI Assistant"))
+    return res["data"]
