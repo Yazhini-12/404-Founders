@@ -1,0 +1,9 @@
+id,title,department_id,description,status
+d88b1690-9eed-4b39-aedc-c912b40c1be1,High-Throughput Microservice Billing API,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,Developed REST APIs using FastAPI and PostgreSQL and containerized services using Docker.,active
+0eba44c7-0055-405d-9660-c012493be2bf,Customer Churn Prediction Platform,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,"Built customer churn prediction models using Python, Pandas and Scikit-learn.",active
+333e2a35-38cc-490b-934d-b8419bfefa38,Multi-Cloud Infrastructure Automation,9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9,Led a team and coordinated deployment of Kubernetes clusters with Terraform and AWS.,active
+791b2572-0240-4c17-8346-31669043a87b,Enterprise Knowledge Search with RAG & Vector DB,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,"Architected an internal AI assistant utilizing LLM embeddings, RAG pipelines, and vector databases.",active
+c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Executive KPI Dashboard & ETL Pipeline,ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce,Designed Power BI dashboards fed by automated SQL ETL data warehousing pipelines.,active
+4053e266-b479-4ad6-8fba-b1ce83778d28,Cloud Security Monitoring & SIEM Guardrail,1f5712d1-05f3-49a7-9781-886cbd77b69d,Implemented SIEM threat detection alerts and automated vulnerability scanning across AWS accounts.,active
+5b32654a-2864-416c-b3db-67ff0eca36e3,Automated Web & API Regression Suite,d91ed70e-5509-4074-b041-9dea03aa2b1f,Built end-to-end API testing scripts and Selenium web automation suites for release verification.,active
+f5f44dac-c7a3-4d67-845b-34d0340e1006,Next-Gen Mobile Self-Service App,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,Created responsive React and mobile user experiences backed by Node.js APIs.,active

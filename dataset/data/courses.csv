@@ -1,0 +1,21 @@
+id,title,provider,description,difficulty
+fd7f160b-d24b-4d54-963c-ec5f364869da,Python Fundamentals,Coursera,Learn key competencies in Python.,Beginner
+b26daf8f-6044-49d8-ae67-05f917958d40,Advanced Python for Systems,Udemy,"Learn key competencies in Python, FastAPI.",Advanced
+80cd8535-077e-447a-bcd9-f9ed32fd175d,Advanced SQL & Database Tuning,Datacamp,"Learn key competencies in SQL, PostgreSQL.",Intermediate
+a4005214-fea8-46f4-8b95-1e4ff4820aa0,React Development Masterclass,Udemy,"Learn key competencies in React, JavaScript, HTML, CSS.",Intermediate
+ee16a668-6361-4736-9b8c-c789ba6e20ab,Docker Essentials for Developers,Pluralsight,Learn key competencies in Docker.,Beginner
+d49f2b1e-7162-4fc3-867b-cc27977a3534,Kubernetes Fundamentals,Linux Foundation,"Learn key competencies in Kubernetes, Docker.",Advanced
+81dd0ee3-e10b-4101-8dff-4519feb3505e,AWS Cloud Architect Fundamentals,AWS Training,"Learn key competencies in AWS, Linux.",Intermediate
+f302fe3e-31c5-4915-808e-410a682f704c,Machine Learning Fundamentals,Coursera,"Learn key competencies in Machine Learning, Python, Statistics.",Intermediate
+a22d4dfa-88e7-4c75-999f-69e52a13f304,Advanced Machine Learning & Scikit-Learn,DeepLearning.AI,"Learn key competencies in Machine Learning, Scikit-learn, Python.",Advanced
+3a78d3a8-767b-4c57-ad89-199033ebade5,Deep Learning with TensorFlow,Coursera,"Learn key competencies in Deep Learning, TensorFlow, PyTorch.",Advanced
+9eb91b97-0a69-4a72-b322-fe27e3bba47d,MLOps Fundamentals,Udemy,"Learn key competencies in MLOps Engineer, Docker, Machine Learning, CI/CD.",Intermediate
+403cef52-903e-4e6b-8020-8a1073931942,Generative AI & Prompt Engineering,DeepLearning.AI,"Learn key competencies in LLM, Prompt Engineering.",Intermediate
+60a64b4d-267c-4019-a4ad-d360e6ac7cfa,RAG Application Development with Vector DBs,Udemy,"Learn key competencies in RAG, Vector Databases, Embeddings.",Advanced
+c2728de9-c43e-4c45-a8e7-851c9646b3d9,Power BI Analytics for Enterprise,Microsoft,"Learn key competencies in Power BI, Data Visualization, Excel.",Intermediate
+c5214322-4a8b-4d12-9c14-cf5359e47ac6,Cybersecurity Fundamentals,EdX,"Learn key competencies in Network Security, Threat Detection.",Beginner
+b9577610-7cbc-4051-b5e3-027a5b1b134f,Leadership & Stakeholder Essentials,LinkedIn Learning,"Learn key competencies in Leadership, Stakeholder Management, Communication.",Intermediate
+f9fa5aa5-5d68-4596-b292-a0a88494e966,Agile & Scrum Practitioner,Scrum.org,"Learn key competencies in Agile, Scrum, Requirement Analysis.",Intermediate
+b821b3d2-19c4-4502-9801-72d436fccf1d,FastAPI Microservices Architecture,Udemy,"Learn key competencies in FastAPI, REST API, Microservices.",Intermediate
+c92f47ae-6c01-4fae-8adc-2d882a1973d0,Data Engineering Pipelines with ETL,Coursera,"Learn key competencies in ETL, Data Warehousing, SQL.",Advanced
+11274be8-4079-4d01-ad85-e863226d9b7b,Cloud Security Architecture,AWS Training,"Learn key competencies in Cloud Security, Vulnerability Assessment.",Advanced

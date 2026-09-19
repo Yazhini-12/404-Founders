@@ -1,0 +1,192 @@
+[
+  {
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "skill_id": "899f6441-4496-4d57-8cd5-c588956f561b",
+    "importance": 1.32
+  },
+  {
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "importance": 1.01
+  },
+  {
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "skill_id": "ac46e3ce-936e-43f1-a213-76616dcd4393",
+    "importance": 1.14
+  },
+  {
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "importance": 1.11
+  },
+  {
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "skill_id": "5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2",
+    "importance": 1.37
+  },
+  {
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "importance": 1.34
+  },
+  {
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "skill_id": "ea31ee4d-610d-4982-a9f0-b402bafb05d8",
+    "importance": 1.45
+  },
+  {
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "skill_id": "d8820b57-4f6d-4ea5-908e-9865e6db8b1f",
+    "importance": 1.04
+  },
+  {
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "skill_id": "69c4b374-e0f9-4322-916c-fc2aca8c7c53",
+    "importance": 1.21
+  },
+  {
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "importance": 1.01
+  },
+  {
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "importance": 1.11
+  },
+  {
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "skill_id": "29712980-fb4c-494d-8317-1defb0da8b25",
+    "importance": 1.25
+  },
+  {
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "skill_id": "bd2dd30e-5753-4684-ad8b-defec1f4c6d6",
+    "importance": 1.01
+  },
+  {
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "skill_id": "c32e2e45-987e-4fcc-a235-e19584801fe9",
+    "importance": 1.1
+  },
+  {
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "skill_id": "93d3bd3d-b72f-4062-a983-f92e0f17d667",
+    "importance": 1.32
+  },
+  {
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "importance": 1.27
+  },
+  {
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "skill_id": "3f040b2d-7d14-49cc-92c9-b3896ffd4699",
+    "importance": 1.11
+  },
+  {
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "skill_id": "df73d56b-0da5-4af6-831f-1b98b9250f00",
+    "importance": 1.29
+  },
+  {
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "skill_id": "5ace71b6-12ce-4046-b359-157b455cd14d",
+    "importance": 1.4
+  },
+  {
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "skill_id": "8550a797-0b53-4eea-8f6a-6715159af69e",
+    "importance": 1.0
+  },
+  {
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "skill_id": "d8619e4c-70e2-4d9d-acab-8a4ec2af3842",
+    "importance": 1.4
+  },
+  {
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "importance": 1.35
+  },
+  {
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "skill_id": "e5f1aba6-b645-4ba0-80dd-1a0d184c470d",
+    "importance": 1.17
+  },
+  {
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "skill_id": "98f1008a-dbc3-4ead-9486-a5e85a66c961",
+    "importance": 1.08
+  },
+  {
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "skill_id": "df2c653a-8a63-42ba-b708-bfad266615da",
+    "importance": 1.48
+  },
+  {
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "skill_id": "cbd94fcb-d158-472a-97a4-e7aa8efb09b7",
+    "importance": 1.17
+  },
+  {
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "skill_id": "f1101892-b628-4d5f-a515-0502665db3fc",
+    "importance": 1.05
+  },
+  {
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "skill_id": "f4870654-1f95-42fe-9c57-96db41d2382d",
+    "importance": 1.05
+  },
+  {
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "skill_id": "118c74f7-930b-487f-8325-08223167ab57",
+    "importance": 1.42
+  },
+  {
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "skill_id": "c9e661cd-37bd-4132-a10b-7a766671ffa0",
+    "importance": 1.3
+  },
+  {
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "skill_id": "d43c097b-a776-4490-9272-57f42fffc162",
+    "importance": 1.4
+  },
+  {
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "skill_id": "cf646dbe-e071-4074-9f36-2e3e93349c85",
+    "importance": 1.36
+  },
+  {
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "importance": 1.27
+  },
+  {
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "skill_id": "2b58d681-8e55-478e-b141-3aff29cad0fd",
+    "importance": 1.49
+  },
+  {
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "skill_id": "62fda3ec-9eef-430c-8a1e-fca3eb205e79",
+    "importance": 1.19
+  },
+  {
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "skill_id": "a77d6c17-a31e-49fe-ac9f-7bf36800ccf0",
+    "importance": 1.28
+  },
+  {
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "skill_id": "582f5336-44d1-44f8-bcca-c9db9972324f",
+    "importance": 1.41
+  },
+  {
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "skill_id": "5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2",
+    "importance": 1.31
+  }
+]

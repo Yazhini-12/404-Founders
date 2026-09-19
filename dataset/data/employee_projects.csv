@@ -1,0 +1,156 @@
+employee_id,project_id,project_role,contribution,start_date,end_date
+6b7caa54-6256-45fe-aff1-348f381337da,d88b1690-9eed-4b39-aedc-c912b40c1be1,Lead Backend Developer,Developed REST APIs using FastAPI and PostgreSQL and containerized services using Docker.,2023-03-01,2023-11-30
+936fbdc1-749b-49b8-aa18-464519340237,333e2a35-38cc-490b-934d-b8419bfefa38,Automation Test Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+71aefff6-4688-4280-9027-ea1819a7b67c,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Backend Developer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+cb7f9679-b154-4014-87a4-103446d722ca,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Security Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,333e2a35-38cc-490b-934d-b8419bfefa38,Full Stack Developer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,791b2572-0240-4c17-8346-31669043a87b,Full Stack Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,d88b1690-9eed-4b39-aedc-c912b40c1be1,Cybersecurity Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+31bbc0ba-5f76-4ac3-993b-523a71236238,d88b1690-9eed-4b39-aedc-c912b40c1be1,Full Stack Developer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+31bbc0ba-5f76-4ac3-993b-523a71236238,4053e266-b479-4ad6-8fba-b1ce83778d28,Full Stack Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+3b063408-d1c8-4b40-a67e-944326f81538,4053e266-b479-4ad6-8fba-b1ce83778d28,AI Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+81d15c93-8452-47c9-9f21-faeb216c256d,0eba44c7-0055-405d-9660-c012493be2bf,MLOps Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+81d15c93-8452-47c9-9f21-faeb216c256d,5b32654a-2864-416c-b3db-67ff0eca36e3,MLOps Engineer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,5b32654a-2864-416c-b3db-67ff0eca36e3,Data Analyst,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Data Analyst,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+2771bbb8-4d72-413d-9d6a-32de6eebf13e,0eba44c7-0055-405d-9660-c012493be2bf,Product Analyst,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+2771bbb8-4d72-413d-9d6a-32de6eebf13e,791b2572-0240-4c17-8346-31669043a87b,Product Analyst,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+db560e71-ab6b-4dfb-8b84-57bb882816db,f5f44dac-c7a3-4d67-845b-34d0340e1006,Mobile Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+db560e71-ab6b-4dfb-8b84-57bb882816db,4053e266-b479-4ad6-8fba-b1ce83778d28,Mobile Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+171852eb-6c3c-464f-9754-506908587dc8,d88b1690-9eed-4b39-aedc-c912b40c1be1,Data Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+171852eb-6c3c-464f-9754-506908587dc8,791b2572-0240-4c17-8346-31669043a87b,Data Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+34730649-f503-48da-9442-d6b2a94f052d,4053e266-b479-4ad6-8fba-b1ce83778d28,Automation Test Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,4053e266-b479-4ad6-8fba-b1ce83778d28,Data Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,f5f44dac-c7a3-4d67-845b-34d0340e1006,Data Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+972e0658-b17c-40ed-b2fc-38311c596393,f5f44dac-c7a3-4d67-845b-34d0340e1006,Product Analyst,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,791b2572-0240-4c17-8346-31669043a87b,Machine Learning Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+1b5655c3-5382-4630-b0ae-d446a5b2c1bb,f5f44dac-c7a3-4d67-845b-34d0340e1006,Product Analyst,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+1b5655c3-5382-4630-b0ae-d446a5b2c1bb,791b2572-0240-4c17-8346-31669043a87b,Product Analyst,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+443e8054-600a-43e4-a79d-eb3b38635c70,d88b1690-9eed-4b39-aedc-c912b40c1be1,Site Reliability Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+28ec9785-c207-4879-8fcf-fea15706f472,5b32654a-2864-416c-b3db-67ff0eca36e3,Cybersecurity Analyst,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+2b5097aa-efb4-4be9-8b6c-ed666a26860c,f5f44dac-c7a3-4d67-845b-34d0340e1006,Product Manager,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+2b5097aa-efb4-4be9-8b6c-ed666a26860c,333e2a35-38cc-490b-934d-b8419bfefa38,Product Manager,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+e9800012-4d59-468e-aae3-5f4cecdbd09e,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Cloud Security Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+10cfcf51-44fd-482d-893a-3e1502ac458f,d88b1690-9eed-4b39-aedc-c912b40c1be1,Business Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+10cfcf51-44fd-482d-893a-3e1502ac458f,333e2a35-38cc-490b-934d-b8419bfefa38,Business Analyst,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,0eba44c7-0055-405d-9660-c012493be2bf,QA Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,5b32654a-2864-416c-b3db-67ff0eca36e3,QA Engineer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+a89dce54-d60c-4655-b594-b454945f0748,791b2572-0240-4c17-8346-31669043a87b,Full Stack Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+a89dce54-d60c-4655-b594-b454945f0748,f5f44dac-c7a3-4d67-845b-34d0340e1006,Full Stack Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,0eba44c7-0055-405d-9660-c012493be2bf,AI Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,791b2572-0240-4c17-8346-31669043a87b,Cloud Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+f32fbbce-660a-4f8b-9d76-6abef2a0c3f8,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Business Analyst,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+f32fbbce-660a-4f8b-9d76-6abef2a0c3f8,d88b1690-9eed-4b39-aedc-c912b40c1be1,Business Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+7aafb11e-8b52-4941-8d1c-29706027bb1e,0eba44c7-0055-405d-9660-c012493be2bf,Backend Developer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+7aafb11e-8b52-4941-8d1c-29706027bb1e,791b2572-0240-4c17-8346-31669043a87b,Backend Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+14edcebd-81df-44fb-808a-c95961cb71f6,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,MLOps Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+14edcebd-81df-44fb-808a-c95961cb71f6,333e2a35-38cc-490b-934d-b8419bfefa38,MLOps Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+e10c929d-3d21-42f6-b39c-6f809b43f214,0eba44c7-0055-405d-9660-c012493be2bf,Full Stack Developer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+e10c929d-3d21-42f6-b39c-6f809b43f214,f5f44dac-c7a3-4d67-845b-34d0340e1006,Full Stack Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+5a9db32c-53d7-4582-9966-698d72c14860,333e2a35-38cc-490b-934d-b8419bfefa38,AI Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+5a9db32c-53d7-4582-9966-698d72c14860,0eba44c7-0055-405d-9660-c012493be2bf,AI Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+d6414071-d668-4785-a677-1f7003c03070,0eba44c7-0055-405d-9660-c012493be2bf,Site Reliability Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+2149d0ee-0b68-439f-a757-ac04ff9a5454,4053e266-b479-4ad6-8fba-b1ce83778d28,Data Scientist,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+376f790b-e9cf-4987-af09-2ba3e553527c,333e2a35-38cc-490b-934d-b8419bfefa38,Backend Developer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+376f790b-e9cf-4987-af09-2ba3e553527c,0eba44c7-0055-405d-9660-c012493be2bf,Backend Developer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,AI Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+0a107801-27d7-4221-863d-61900317b6f9,0eba44c7-0055-405d-9660-c012493be2bf,Cloud Security Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+0a107801-27d7-4221-863d-61900317b6f9,5b32654a-2864-416c-b3db-67ff0eca36e3,Cloud Security Engineer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+0b58d113-b3d5-454a-b54e-d2e80798b717,4053e266-b479-4ad6-8fba-b1ce83778d28,Cybersecurity Analyst,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+6bc14927-5f65-4650-9fef-871c381b7c11,333e2a35-38cc-490b-934d-b8419bfefa38,Cloud Security Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+6bc14927-5f65-4650-9fef-871c381b7c11,5b32654a-2864-416c-b3db-67ff0eca36e3,Cloud Security Engineer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+20eb45ec-67d7-465f-80c1-6421f8b89faf,4053e266-b479-4ad6-8fba-b1ce83778d28,AI Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+20eb45ec-67d7-465f-80c1-6421f8b89faf,d88b1690-9eed-4b39-aedc-c912b40c1be1,AI Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee,d88b1690-9eed-4b39-aedc-c912b40c1be1,Product Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee,0eba44c7-0055-405d-9660-c012493be2bf,Product Analyst,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+d5aaa610-3409-4472-875b-ca6fd19ef791,0eba44c7-0055-405d-9660-c012493be2bf,Automation Test Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+d5aaa610-3409-4472-875b-ca6fd19ef791,333e2a35-38cc-490b-934d-b8419bfefa38,Automation Test Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,f5f44dac-c7a3-4d67-845b-34d0340e1006,Mobile Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,5b32654a-2864-416c-b3db-67ff0eca36e3,Mobile Developer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+e30e9971-5c08-432d-bc5f-8c4c2765dedd,4053e266-b479-4ad6-8fba-b1ce83778d28,Automation Test Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+e8ebc110-8275-477f-a0cb-5f443f25ac09,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Product Analyst,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+e8ebc110-8275-477f-a0cb-5f443f25ac09,791b2572-0240-4c17-8346-31669043a87b,Product Analyst,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+d3010204-a6b6-430e-8de1-c089f5c97186,f5f44dac-c7a3-4d67-845b-34d0340e1006,Data Analyst,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+d3010204-a6b6-430e-8de1-c089f5c97186,333e2a35-38cc-490b-934d-b8419bfefa38,Data Analyst,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,d88b1690-9eed-4b39-aedc-c912b40c1be1,DevOps Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,f5f44dac-c7a3-4d67-845b-34d0340e1006,DevOps Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,d88b1690-9eed-4b39-aedc-c912b40c1be1,Cloud Security Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Cloud Security Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+c2f51815-6d15-4791-a5b6-f03f440f46ae,791b2572-0240-4c17-8346-31669043a87b,Data Analyst,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+c2f51815-6d15-4791-a5b6-f03f440f46ae,333e2a35-38cc-490b-934d-b8419bfefa38,Data Analyst,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,f5f44dac-c7a3-4d67-845b-34d0340e1006,AI Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,d88b1690-9eed-4b39-aedc-c912b40c1be1,AI Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,f5f44dac-c7a3-4d67-845b-34d0340e1006,Cloud Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+aab02f87-cbe0-44f1-ab2a-4a46d9034c1b,791b2572-0240-4c17-8346-31669043a87b,Product Analyst,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+aab02f87-cbe0-44f1-ab2a-4a46d9034c1b,d88b1690-9eed-4b39-aedc-c912b40c1be1,Product Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+891f60b2-6e50-44ad-a112-b0ce4f470de6,0eba44c7-0055-405d-9660-c012493be2bf,Business Analyst,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+891f60b2-6e50-44ad-a112-b0ce4f470de6,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Business Analyst,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+b082f688-19fe-4760-819c-ca3b4dc1ce16,791b2572-0240-4c17-8346-31669043a87b,QA Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+b873acd2-f505-40d2-affa-d65e2ac466a3,f5f44dac-c7a3-4d67-845b-34d0340e1006,Backend Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+90379838-c371-4977-83e3-42bbc6ec9ebd,f5f44dac-c7a3-4d67-845b-34d0340e1006,Mobile Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+db69df78-a295-4506-8453-8b8eb7e4a70b,5b32654a-2864-416c-b3db-67ff0eca36e3,Backend Developer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+db69df78-a295-4506-8453-8b8eb7e4a70b,791b2572-0240-4c17-8346-31669043a87b,Backend Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+9d3bcef2-0760-49cc-93d6-d17708197b42,f5f44dac-c7a3-4d67-845b-34d0340e1006,Cloud Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,791b2572-0240-4c17-8346-31669043a87b,Full Stack Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,4053e266-b479-4ad6-8fba-b1ce83778d28,Full Stack Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,d88b1690-9eed-4b39-aedc-c912b40c1be1,Full Stack Developer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,f5f44dac-c7a3-4d67-845b-34d0340e1006,Full Stack Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,4053e266-b479-4ad6-8fba-b1ce83778d28,Frontend Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+a5ba03da-e2f5-45cf-be55-1af374639a93,f5f44dac-c7a3-4d67-845b-34d0340e1006,Data Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+d133ac64-cde0-4615-aa09-317c7b7c656f,333e2a35-38cc-490b-934d-b8419bfefa38,Automation Test Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+d133ac64-cde0-4615-aa09-317c7b7c656f,4053e266-b479-4ad6-8fba-b1ce83778d28,Automation Test Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,4053e266-b479-4ad6-8fba-b1ce83778d28,Full Stack Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,791b2572-0240-4c17-8346-31669043a87b,Full Stack Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+dd66421a-d3a3-418b-af3c-b69a6c05a133,f5f44dac-c7a3-4d67-845b-34d0340e1006,Cybersecurity Analyst,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+69b17375-fe97-4ff4-adab-573666c1671c,791b2572-0240-4c17-8346-31669043a87b,QA Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+3ed9120a-6c58-4cf1-a302-84b31726a528,d88b1690-9eed-4b39-aedc-c912b40c1be1,Mobile Developer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+e3773936-d600-4048-ae4b-04d658d22e5c,0eba44c7-0055-405d-9660-c012493be2bf,QA Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+e3773936-d600-4048-ae4b-04d658d22e5c,791b2572-0240-4c17-8346-31669043a87b,QA Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+ef9fc64e-091e-4d0a-ae30-37af737db175,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,DevOps Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+ef9fc64e-091e-4d0a-ae30-37af737db175,4053e266-b479-4ad6-8fba-b1ce83778d28,DevOps Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+871be211-c5ee-4705-9d6d-686c8bc06f4a,5b32654a-2864-416c-b3db-67ff0eca36e3,Cybersecurity Analyst,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+10af4015-5270-4ab5-a450-be7312c62933,333e2a35-38cc-490b-934d-b8419bfefa38,Full Stack Developer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+748d4076-e606-4ced-98a1-e902191bb47b,d88b1690-9eed-4b39-aedc-c912b40c1be1,Product Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+748d4076-e606-4ced-98a1-e902191bb47b,5b32654a-2864-416c-b3db-67ff0eca36e3,Product Analyst,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+97a9952c-4bd6-4c86-b9ad-bc40c63c80c0,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,Business Analyst,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+97a9952c-4bd6-4c86-b9ad-bc40c63c80c0,4053e266-b479-4ad6-8fba-b1ce83778d28,Business Analyst,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+38d018e7-e85c-4774-95f7-1159738dd6df,d88b1690-9eed-4b39-aedc-c912b40c1be1,Mobile Developer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+422735f2-7393-4a92-8be3-fa68ce24423b,791b2572-0240-4c17-8346-31669043a87b,Data Analyst,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+422735f2-7393-4a92-8be3-fa68ce24423b,333e2a35-38cc-490b-934d-b8419bfefa38,Data Analyst,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+df0c309f-ddcf-4891-bc34-faefa5b588fd,f5f44dac-c7a3-4d67-845b-34d0340e1006,Automation Test Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+174774d0-3477-46b6-8e67-74f2da86dbef,4053e266-b479-4ad6-8fba-b1ce83778d28,Mobile Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+174774d0-3477-46b6-8e67-74f2da86dbef,791b2572-0240-4c17-8346-31669043a87b,Mobile Developer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+c4a71295-cf7b-448a-aa25-8635c899692f,333e2a35-38cc-490b-934d-b8419bfefa38,Backend Developer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+c4a71295-cf7b-448a-aa25-8635c899692f,d88b1690-9eed-4b39-aedc-c912b40c1be1,Backend Developer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+e1521996-0557-444b-a09e-1954a95b05be,f5f44dac-c7a3-4d67-845b-34d0340e1006,Software Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+e1521996-0557-444b-a09e-1954a95b05be,0eba44c7-0055-405d-9660-c012493be2bf,Software Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,d88b1690-9eed-4b39-aedc-c912b40c1be1,Security Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+721009c8-f69c-418a-81af-4bc134974563,333e2a35-38cc-490b-934d-b8419bfefa38,Data Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+2918579a-aa13-4331-9697-957bec0a0e4a,d88b1690-9eed-4b39-aedc-c912b40c1be1,Automation Test Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+2918579a-aa13-4331-9697-957bec0a0e4a,0eba44c7-0055-405d-9660-c012493be2bf,Automation Test Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+b7e3a441-015a-481d-a64b-ff32d0080f84,5b32654a-2864-416c-b3db-67ff0eca36e3,Data Analyst,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+e12846ff-3426-4ce3-ba39-808b5a608ea2,333e2a35-38cc-490b-934d-b8419bfefa38,Product Analyst,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+e12846ff-3426-4ce3-ba39-808b5a608ea2,d88b1690-9eed-4b39-aedc-c912b40c1be1,Product Analyst,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,5b32654a-2864-416c-b3db-67ff0eca36e3,Data Scientist,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,4053e266-b479-4ad6-8fba-b1ce83778d28,Cloud Security Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,5b32654a-2864-416c-b3db-67ff0eca36e3,Cloud Security Engineer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+865834ac-cf65-4d53-b53f-20358b2a613a,c32acaa0-a3c1-4867-bf58-4f1b46ce6967,MLOps Engineer,Contributed to Executive KPI Dashboard & ETL Pipeline execution.,2023-01-10,2023-10-15
+865834ac-cf65-4d53-b53f-20358b2a613a,333e2a35-38cc-490b-934d-b8419bfefa38,MLOps Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+cadad437-fa64-499a-8495-062731233477,f5f44dac-c7a3-4d67-845b-34d0340e1006,Machine Learning Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+cadad437-fa64-499a-8495-062731233477,0eba44c7-0055-405d-9660-c012493be2bf,Machine Learning Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+ab4b737e-1705-463e-a9da-d468aa42ae5f,4053e266-b479-4ad6-8fba-b1ce83778d28,Full Stack Developer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+ab4b737e-1705-463e-a9da-d468aa42ae5f,5b32654a-2864-416c-b3db-67ff0eca36e3,Full Stack Developer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+5186ef51-263e-4947-8016-72c4cbbce0ca,f5f44dac-c7a3-4d67-845b-34d0340e1006,Backend Developer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+0f1ffef1-9033-46e2-9a7f-7800c5b806b5,f5f44dac-c7a3-4d67-845b-34d0340e1006,Cloud Security Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,333e2a35-38cc-490b-934d-b8419bfefa38,Mobile Developer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,d88b1690-9eed-4b39-aedc-c912b40c1be1,Mobile Developer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+108943a4-5591-4c8e-b49e-a78192d20d9e,5b32654a-2864-416c-b3db-67ff0eca36e3,Product Analyst,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,f5f44dac-c7a3-4d67-845b-34d0340e1006,MLOps Engineer,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15
+84c779d6-f8c9-4919-8085-aa721f6c8b98,d88b1690-9eed-4b39-aedc-c912b40c1be1,Automation Test Engineer,Contributed to High-Throughput Microservice Billing API execution.,2023-01-10,2023-10-15
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,0eba44c7-0055-405d-9660-c012493be2bf,DevOps Engineer,Contributed to Customer Churn Prediction Platform execution.,2023-01-10,2023-10-15
+9971b3bd-707b-48d3-89e0-5a3f73e9a8bb,791b2572-0240-4c17-8346-31669043a87b,Automation Test Engineer,Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.,2023-01-10,2023-10-15
+9971b3bd-707b-48d3-89e0-5a3f73e9a8bb,333e2a35-38cc-490b-934d-b8419bfefa38,Automation Test Engineer,Contributed to Multi-Cloud Infrastructure Automation execution.,2023-01-10,2023-10-15
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,4053e266-b479-4ad6-8fba-b1ce83778d28,Data Engineer,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+d868370d-82ad-4c4a-857f-7e8339f59841,5b32654a-2864-416c-b3db-67ff0eca36e3,Security Engineer,Contributed to Automated Web & API Regression Suite execution.,2023-01-10,2023-10-15
+2a3014fa-df34-4881-a735-57691d546152,4053e266-b479-4ad6-8fba-b1ce83778d28,Product Manager,Contributed to Cloud Security Monitoring & SIEM Guardrail execution.,2023-01-10,2023-10-15
+2a3014fa-df34-4881-a735-57691d546152,f5f44dac-c7a3-4d67-845b-34d0340e1006,Product Manager,Contributed to Next-Gen Mobile Self-Service App execution.,2023-01-10,2023-10-15

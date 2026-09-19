@@ -1,0 +1,23 @@
+id,title,department_id,description,min_experience,status
+ad25a7ae-6f52-401e-9428-6ca36523a8df,Frontend Developer,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,"Build responsive user interfaces using HTML, CSS, React, and modern web tech.",2,active
+75c250d6-2771-4448-95bd-80fe2e18df55,Backend Developer,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,"Design scalable REST APIs, microservices, and database systems.",3,active
+1f73f29e-025f-4545-b7fd-63f44d0f2bb5,Full Stack Developer,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,Deliver end-to-end web applications combining React frontend and Python/Node backend.,3,active
+9ddb77c4-2a59-431a-82a3-d60f058ddc09,Software Engineer,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,"Develop, test, and maintain software applications using clean architecture.",2,active
+f8b6ccce-e9f2-41a3-9a09-44e9e7c5368c,Mobile Developer,af5f5ec7-b5a3-44b5-ad61-9e36f810f733,Build cross-platform and native mobile applications.,2,active
+7ec63567-3e22-41f6-99a6-e7016157aae1,Data Analyst,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,"Analyze data trends, build SQL pipelines, and design executive dashboards.",2,active
+7f868a06-7dcd-45d0-892e-164846104ec3,Data Scientist,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,Formulate predictive statistical models and derive insights from raw data.,3,active
+043abe9c-54a8-4867-ab76-c4261fbfd3c5,Data Engineer,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,"Build robust ETL pipelines, data warehouses, and Big Data platforms.",3,active
+d9b92412-1397-4dc9-b3ec-988ddf659128,Machine Learning Engineer,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,"Deploy machine learning models, TensorFlow algorithms, and statistical pipelines into production.",3,active
+1eae1419-4bc5-433f-b789-5888c9766785,AI Engineer,94d0aa25-189d-4fa6-bbbf-dc4334891f5c,"Implement LLMs, RAG applications, vector search, and GenAI capabilities.",3,active
+db9a8d16-06ee-4152-94e6-d1d0f73c9224,Cloud Engineer,9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9,Architect and manage AWS/Azure cloud infrastructure.,3,active
+9629bc55-0f35-4fea-a21a-f9e62ddcf8a3,DevOps Engineer,9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9,"Automate CI/CD pipelines, Docker containerization, and Kubernetes clusters.",3,active
+1c7dafae-4abc-44f0-8097-f71335d087d2,Site Reliability Engineer,9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9,"Ensure uptime, latency performance, and automated infrastructure resilience.",4,active
+785fee39-fa91-451d-8013-3355eb13a0ef,MLOps Engineer,9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9,"Automate model retraining, monitoring pipelines, and AI cloud deployments.",3,active
+63931d8c-5574-4e87-98c4-cb0dc68aba27,Cybersecurity Analyst,1f5712d1-05f3-49a7-9781-886cbd77b69d,"Monitor network traffic, evaluate vulnerabilities, and enforce security policies.",2,active
+4dede0c2-01a5-43cd-931e-39778cc5ba19,Security Engineer,1f5712d1-05f3-49a7-9781-886cbd77b69d,"Implement encryption, SIEM monitoring, and incident response tools.",3,active
+32ab4d66-27f1-4f26-9ad1-a2badfb02cca,Cloud Security Engineer,1f5712d1-05f3-49a7-9781-886cbd77b69d,"Harden cloud environments, manage IAM policies, and guard cloud infrastructure.",3,active
+bf0b1afe-44e6-4f60-9b56-a93621ccbf86,QA Engineer,d91ed70e-5509-4074-b041-9dea03aa2b1f,"Design test plans, execute functional validation, and track bugs.",2,active
+c1f84f5d-18f1-4246-b42b-3bf448cbaeaa,Automation Test Engineer,d91ed70e-5509-4074-b041-9dea03aa2b1f,Develop automated test scripts using Selenium and API testing suites.,3,active
+95f442ab-6dc6-4e2d-83ea-fee81986367d,Product Analyst,ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce,"Track product usage KPIs, conduct user funnel analysis, and report insights.",2,active
+66730d38-0fa1-47f8-ae80-bde39b1837ee,Business Analyst,ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce,Bridge business stakeholder requirements with technical development teams.,3,active
+b7b88761-cd8d-4aeb-96dd-8fe46e30d14d,Product Manager,ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce,"Define product vision, roadmap, sprint backlog, and cross-functional leadership.",4,active

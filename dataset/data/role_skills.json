@@ -1,0 +1,765 @@
+[
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "2b58d681-8e55-478e-b141-3aff29cad0fd",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "62fda3ec-9eef-430c-8a1e-fca3eb205e79",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "a0dc6906-6dba-4293-8320-6bf9ef5af941",
+    "required_level": 4,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "d4783fea-e915-4f1a-9245-14a93e2d68b5",
+    "required_level": 4,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "a77d6c17-a31e-49fe-ac9f-7bf36800ccf0",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "488fe6e6-6184-4e1a-962c-149b2aac1dc6",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "skill_id": "13229b41-a1f2-4d2f-91a3-cb4638ce4cef",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "899f6441-4496-4d57-8cd5-c588956f561b",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "ac46e3ce-936e-43f1-a213-76616dcd4393",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "488fe6e6-6184-4e1a-962c-149b2aac1dc6",
+    "required_level": 4,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "skill_id": "13229b41-a1f2-4d2f-91a3-cb4638ce4cef",
+    "required_level": 4,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "2b58d681-8e55-478e-b141-3aff29cad0fd",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "582f5336-44d1-44f8-bcca-c9db9972324f",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "62fda3ec-9eef-430c-8a1e-fca3eb205e79",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "skill_id": "488fe6e6-6184-4e1a-962c-149b2aac1dc6",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "skill_id": "e68c35f0-8416-427d-89b3-f9dade485651",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "skill_id": "488fe6e6-6184-4e1a-962c-149b2aac1dc6",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "skill_id": "ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "skill_id": "13229b41-a1f2-4d2f-91a3-cb4638ce4cef",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "f8b6ccce-e9f2-41a3-9a09-44e9e7c5368c",
+    "skill_id": "62fda3ec-9eef-430c-8a1e-fca3eb205e79",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "f8b6ccce-e9f2-41a3-9a09-44e9e7c5368c",
+    "skill_id": "a77d6c17-a31e-49fe-ac9f-7bf36800ccf0",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "f8b6ccce-e9f2-41a3-9a09-44e9e7c5368c",
+    "skill_id": "5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "f8b6ccce-e9f2-41a3-9a09-44e9e7c5368c",
+    "skill_id": "488fe6e6-6184-4e1a-962c-149b2aac1dc6",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "skill_id": "98f1008a-dbc3-4ead-9486-a5e85a66c961",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "skill_id": "d8619e4c-70e2-4d9d-acab-8a4ec2af3842",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "skill_id": "df2c653a-8a63-42ba-b708-bfad266615da",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "skill_id": "bdb9b5da-2b2d-408a-9e77-aa304dbf61a8",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "skill_id": "bdb9b5da-2b2d-408a-9e77-aa304dbf61a8",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "skill_id": "69c4b374-e0f9-4322-916c-fc2aca8c7c53",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "skill_id": "ea31ee4d-610d-4982-a9f0-b402bafb05d8",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "skill_id": "d8820b57-4f6d-4ea5-908e-9865e6db8b1f",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "skill_id": "e5f1aba6-b645-4ba0-80dd-1a0d184c470d",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "skill_id": "ac46e3ce-936e-43f1-a213-76616dcd4393",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "skill_id": "7207a95f-51be-4fbd-ae8f-31fc77f43ffb",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "skill_id": "69c4b374-e0f9-4322-916c-fc2aca8c7c53",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "skill_id": "88bf48ab-bb09-42e3-9197-986f064d2252",
+    "required_level": 3,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "skill_id": "bdb9b5da-2b2d-408a-9e77-aa304dbf61a8",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "skill_id": "df73d56b-0da5-4af6-831f-1b98b9250f00",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "skill_id": "3f040b2d-7d14-49cc-92c9-b3896ffd4699",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "skill_id": "5ace71b6-12ce-4046-b359-157b455cd14d",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "skill_id": "8550a797-0b53-4eea-8f6a-6715159af69e",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "skill_id": "61f83cd2-f4c7-4893-92f6-11580979700b",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "db9a8d16-06ee-4152-94e6-d1d0f73c9224",
+    "skill_id": "bd2dd30e-5753-4684-ad8b-defec1f4c6d6",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "db9a8d16-06ee-4152-94e6-d1d0f73c9224",
+    "skill_id": "c32e2e45-987e-4fcc-a235-e19584801fe9",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "db9a8d16-06ee-4152-94e6-d1d0f73c9224",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "db9a8d16-06ee-4152-94e6-d1d0f73c9224",
+    "skill_id": "e57a355f-4909-42b1-acf3-ae3970d39423",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "db9a8d16-06ee-4152-94e6-d1d0f73c9224",
+    "skill_id": "93d3bd3d-b72f-4062-a983-f92e0f17d667",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "skill_id": "29712980-fb4c-494d-8317-1defb0da8b25",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "skill_id": "bd2dd30e-5753-4684-ad8b-defec1f4c6d6",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "skill_id": "e57a355f-4909-42b1-acf3-ae3970d39423",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "skill_id": "93d3bd3d-b72f-4062-a983-f92e0f17d667",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "skill_id": "c32e2e45-987e-4fcc-a235-e19584801fe9",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "1c7dafae-4abc-44f0-8097-f71335d087d2",
+    "skill_id": "e57a355f-4909-42b1-acf3-ae3970d39423",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "1c7dafae-4abc-44f0-8097-f71335d087d2",
+    "skill_id": "29712980-fb4c-494d-8317-1defb0da8b25",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "1c7dafae-4abc-44f0-8097-f71335d087d2",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "1c7dafae-4abc-44f0-8097-f71335d087d2",
+    "skill_id": "93d3bd3d-b72f-4062-a983-f92e0f17d667",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "1c7dafae-4abc-44f0-8097-f71335d087d2",
+    "skill_id": "13229b41-a1f2-4d2f-91a3-cb4638ce4cef",
+    "required_level": 4,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "785fee39-fa91-451d-8013-3355eb13a0ef",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "785fee39-fa91-451d-8013-3355eb13a0ef",
+    "skill_id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "785fee39-fa91-451d-8013-3355eb13a0ef",
+    "skill_id": "29712980-fb4c-494d-8317-1defb0da8b25",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "785fee39-fa91-451d-8013-3355eb13a0ef",
+    "skill_id": "69c4b374-e0f9-4322-916c-fc2aca8c7c53",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": true
+  },
+  {
+    "role_id": "785fee39-fa91-451d-8013-3355eb13a0ef",
+    "skill_id": "93d3bd3d-b72f-4062-a983-f92e0f17d667",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "63931d8c-5574-4e87-98c4-cb0dc68aba27",
+    "skill_id": "118c74f7-930b-487f-8325-08223167ab57",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "63931d8c-5574-4e87-98c4-cb0dc68aba27",
+    "skill_id": "f4870654-1f95-42fe-9c57-96db41d2382d",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "63931d8c-5574-4e87-98c4-cb0dc68aba27",
+    "skill_id": "f1101892-b628-4d5f-a515-0502665db3fc",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "63931d8c-5574-4e87-98c4-cb0dc68aba27",
+    "skill_id": "1f82e66e-3f1d-4f9c-a3c3-fe70ef440608",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "4dede0c2-01a5-43cd-931e-39778cc5ba19",
+    "skill_id": "118c74f7-930b-487f-8325-08223167ab57",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "4dede0c2-01a5-43cd-931e-39778cc5ba19",
+    "skill_id": "e6e5f73e-69dc-4311-9a45-4c2615602a44",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "4dede0c2-01a5-43cd-931e-39778cc5ba19",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "4dede0c2-01a5-43cd-931e-39778cc5ba19",
+    "skill_id": "e57a355f-4909-42b1-acf3-ae3970d39423",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "32ab4d66-27f1-4f26-9ad1-a2badfb02cca",
+    "skill_id": "cbd94fcb-d158-472a-97a4-e7aa8efb09b7",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "32ab4d66-27f1-4f26-9ad1-a2badfb02cca",
+    "skill_id": "bd2dd30e-5753-4684-ad8b-defec1f4c6d6",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "32ab4d66-27f1-4f26-9ad1-a2badfb02cca",
+    "skill_id": "1f82e66e-3f1d-4f9c-a3c3-fe70ef440608",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "bf0b1afe-44e6-4f60-9b56-a93621ccbf86",
+    "skill_id": "d43c097b-a776-4490-9272-57f42fffc162",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "bf0b1afe-44e6-4f60-9b56-a93621ccbf86",
+    "skill_id": "ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "bf0b1afe-44e6-4f60-9b56-a93621ccbf86",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "c1f84f5d-18f1-4246-b42b-3bf448cbaeaa",
+    "skill_id": "c9e661cd-37bd-4132-a10b-7a766671ffa0",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "c1f84f5d-18f1-4246-b42b-3bf448cbaeaa",
+    "skill_id": "cf646dbe-e071-4074-9f36-2e3e93349c85",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "c1f84f5d-18f1-4246-b42b-3bf448cbaeaa",
+    "skill_id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "required_level": 3,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "95f442ab-6dc6-4e2d-83ea-fee81986367d",
+    "skill_id": "10f0b092-b575-4e08-aee1-88a90f97c1ac",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "95f442ab-6dc6-4e2d-83ea-fee81986367d",
+    "skill_id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "95f442ab-6dc6-4e2d-83ea-fee81986367d",
+    "skill_id": "98f1008a-dbc3-4ead-9486-a5e85a66c961",
+    "required_level": 3,
+    "importance": 1.0,
+    "is_critical": false
+  },
+  {
+    "role_id": "66730d38-0fa1-47f8-ae80-bde39b1837ee",
+    "skill_id": "82eb6ec3-15b4-4014-848b-e2839b7bdfcd",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "66730d38-0fa1-47f8-ae80-bde39b1837ee",
+    "skill_id": "22163dd5-3390-4046-9b40-62efbb00f353",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "66730d38-0fa1-47f8-ae80-bde39b1837ee",
+    "skill_id": "6c268b76-4bcf-48ef-85e3-c692f6f7fc75",
+    "required_level": 4,
+    "importance": 1.2,
+    "is_critical": false
+  },
+  {
+    "role_id": "b7b88761-cd8d-4aeb-96dd-8fe46e30d14d",
+    "skill_id": "6c268b76-4bcf-48ef-85e3-c692f6f7fc75",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "b7b88761-cd8d-4aeb-96dd-8fe46e30d14d",
+    "skill_id": "5e096574-8e3e-4068-916c-83807ed7f9a8",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  },
+  {
+    "role_id": "b7b88761-cd8d-4aeb-96dd-8fe46e30d14d",
+    "skill_id": "b025b85f-b3d4-4444-ab2d-66352c31426b",
+    "required_level": 4,
+    "importance": 1.5,
+    "is_critical": true
+  }
+]

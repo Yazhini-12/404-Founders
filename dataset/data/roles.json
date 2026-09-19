@@ -1,0 +1,178 @@
+[
+  {
+    "id": "ad25a7ae-6f52-401e-9428-6ca36523a8df",
+    "title": "Frontend Developer",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Build responsive user interfaces using HTML, CSS, React, and modern web tech.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "75c250d6-2771-4448-95bd-80fe2e18df55",
+    "title": "Backend Developer",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Design scalable REST APIs, microservices, and database systems.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "1f73f29e-025f-4545-b7fd-63f44d0f2bb5",
+    "title": "Full Stack Developer",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Deliver end-to-end web applications combining React frontend and Python/Node backend.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "9ddb77c4-2a59-431a-82a3-d60f058ddc09",
+    "title": "Software Engineer",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Develop, test, and maintain software applications using clean architecture.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "f8b6ccce-e9f2-41a3-9a09-44e9e7c5368c",
+    "title": "Mobile Developer",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Build cross-platform and native mobile applications.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "7ec63567-3e22-41f6-99a6-e7016157aae1",
+    "title": "Data Analyst",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Analyze data trends, build SQL pipelines, and design executive dashboards.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "7f868a06-7dcd-45d0-892e-164846104ec3",
+    "title": "Data Scientist",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Formulate predictive statistical models and derive insights from raw data.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "043abe9c-54a8-4867-ab76-c4261fbfd3c5",
+    "title": "Data Engineer",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Build robust ETL pipelines, data warehouses, and Big Data platforms.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "d9b92412-1397-4dc9-b3ec-988ddf659128",
+    "title": "Machine Learning Engineer",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Deploy machine learning models, TensorFlow algorithms, and statistical pipelines into production.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "1eae1419-4bc5-433f-b789-5888c9766785",
+    "title": "AI Engineer",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Implement LLMs, RAG applications, vector search, and GenAI capabilities.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "db9a8d16-06ee-4152-94e6-d1d0f73c9224",
+    "title": "Cloud Engineer",
+    "department_id": "9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9",
+    "description": "Architect and manage AWS/Azure cloud infrastructure.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "9629bc55-0f35-4fea-a21a-f9e62ddcf8a3",
+    "title": "DevOps Engineer",
+    "department_id": "9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9",
+    "description": "Automate CI/CD pipelines, Docker containerization, and Kubernetes clusters.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "1c7dafae-4abc-44f0-8097-f71335d087d2",
+    "title": "Site Reliability Engineer",
+    "department_id": "9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9",
+    "description": "Ensure uptime, latency performance, and automated infrastructure resilience.",
+    "min_experience": 4,
+    "status": "active"
+  },
+  {
+    "id": "785fee39-fa91-451d-8013-3355eb13a0ef",
+    "title": "MLOps Engineer",
+    "department_id": "9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9",
+    "description": "Automate model retraining, monitoring pipelines, and AI cloud deployments.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "63931d8c-5574-4e87-98c4-cb0dc68aba27",
+    "title": "Cybersecurity Analyst",
+    "department_id": "1f5712d1-05f3-49a7-9781-886cbd77b69d",
+    "description": "Monitor network traffic, evaluate vulnerabilities, and enforce security policies.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "4dede0c2-01a5-43cd-931e-39778cc5ba19",
+    "title": "Security Engineer",
+    "department_id": "1f5712d1-05f3-49a7-9781-886cbd77b69d",
+    "description": "Implement encryption, SIEM monitoring, and incident response tools.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "32ab4d66-27f1-4f26-9ad1-a2badfb02cca",
+    "title": "Cloud Security Engineer",
+    "department_id": "1f5712d1-05f3-49a7-9781-886cbd77b69d",
+    "description": "Harden cloud environments, manage IAM policies, and guard cloud infrastructure.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "bf0b1afe-44e6-4f60-9b56-a93621ccbf86",
+    "title": "QA Engineer",
+    "department_id": "d91ed70e-5509-4074-b041-9dea03aa2b1f",
+    "description": "Design test plans, execute functional validation, and track bugs.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "c1f84f5d-18f1-4246-b42b-3bf448cbaeaa",
+    "title": "Automation Test Engineer",
+    "department_id": "d91ed70e-5509-4074-b041-9dea03aa2b1f",
+    "description": "Develop automated test scripts using Selenium and API testing suites.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "95f442ab-6dc6-4e2d-83ea-fee81986367d",
+    "title": "Product Analyst",
+    "department_id": "ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce",
+    "description": "Track product usage KPIs, conduct user funnel analysis, and report insights.",
+    "min_experience": 2,
+    "status": "active"
+  },
+  {
+    "id": "66730d38-0fa1-47f8-ae80-bde39b1837ee",
+    "title": "Business Analyst",
+    "department_id": "ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce",
+    "description": "Bridge business stakeholder requirements with technical development teams.",
+    "min_experience": 3,
+    "status": "active"
+  },
+  {
+    "id": "b7b88761-cd8d-4aeb-96dd-8fe46e30d14d",
+    "title": "Product Manager",
+    "department_id": "ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce",
+    "description": "Define product vision, roadmap, sprint backlog, and cross-functional leadership.",
+    "min_experience": 4,
+    "status": "active"
+  }
+]

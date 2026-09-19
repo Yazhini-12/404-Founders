@@ -1,0 +1,630 @@
+employee_id,skill_id,proficiency,confidence,source,evidence,is_inferred,verified
+6b7caa54-6256-45fe-aff1-348f381337da,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.95,self_reported,Built FastAPI microservices & Python scripts,False,True
+6b7caa54-6256-45fe-aff1-348f381337da,899f6441-4496-4d57-8cd5-c588956f561b,4,0.95,project_extracted,Designed REST APIs for core billing engine,False,True
+6b7caa54-6256-45fe-aff1-348f381337da,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.85,self_reported,Wrote complex analytical queries in PostgreSQL,False,True
+6b7caa54-6256-45fe-aff1-348f381337da,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.8,project_extracted,Containerized API services for dev/staging,False,True
+6b7caa54-6256-45fe-aff1-348f381337da,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.9,self_reported,Version control lead for team repository,False,True
+6b7caa54-6256-45fe-aff1-348f381337da,69c4b374-e0f9-4322-916c-fc2aca8c7c53,2,0.6,course_completed,Completed ML Fundamentals online course,True,False
+6b7caa54-6256-45fe-aff1-348f381337da,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.9,peer_review,Consistently solves complex algorithmic bugs,False,True
+936fbdc1-749b-49b8-aa18-464519340237,c9e661cd-37bd-4132-a10b-7a766671ffa0,3,0.87,project_extracted,Applied Selenium in enterprise projects at level 3.,True,True
+936fbdc1-749b-49b8-aa18-464519340237,cf646dbe-e071-4074-9f36-2e3e93349c85,3,0.8,project_extracted,Applied Test Automation in enterprise projects at level 3.,False,True
+936fbdc1-749b-49b8-aa18-464519340237,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.79,manager_verified,Applied Python in enterprise projects at level 3.,False,True
+936fbdc1-749b-49b8-aa18-464519340237,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+71aefff6-4688-4280-9027-ea1819a7b67c,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.8,self_reported,Applied Python in enterprise projects at level 4.,True,False
+71aefff6-4688-4280-9027-ea1819a7b67c,899f6441-4496-4d57-8cd5-c588956f561b,4,0.86,project_extracted,Applied FastAPI in enterprise projects at level 4.,False,True
+71aefff6-4688-4280-9027-ea1819a7b67c,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.73,manager_verified,Applied REST API in enterprise projects at level 4.,False,False
+71aefff6-4688-4280-9027-ea1819a7b67c,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.79,self_reported,Applied SQL in enterprise projects at level 4.,False,True
+71aefff6-4688-4280-9027-ea1819a7b67c,ac46e3ce-936e-43f1-a213-76616dcd4393,2,0.92,self_reported,Applied PostgreSQL in enterprise projects at level 2.,True,False
+71aefff6-4688-4280-9027-ea1819a7b67c,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.8,manager_verified,Applied Docker in enterprise projects at level 2.,False,False
+71aefff6-4688-4280-9027-ea1819a7b67c,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.87,self_reported,Applied Git in enterprise projects at level 3.,False,False
+71aefff6-4688-4280-9027-ea1819a7b67c,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,3,0.77,self_reported,Applied Problem Solving in enterprise projects at level 3.,False,True
+71aefff6-4688-4280-9027-ea1819a7b67c,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+cb7f9679-b154-4014-87a4-103446d722ca,118c74f7-930b-487f-8325-08223167ab57,4,0.92,project_extracted,Applied Network Security in enterprise projects at level 4.,True,True
+cb7f9679-b154-4014-87a4-103446d722ca,e6e5f73e-69dc-4311-9a45-4c2615602a44,4,0.92,self_reported,Applied Incident Response in enterprise projects at level 4.,True,False
+cb7f9679-b154-4014-87a4-103446d722ca,4352cf79-2000-4b4c-a3be-724e8a896174,2,0.94,manager_verified,Applied Python in enterprise projects at level 2.,True,True
+cb7f9679-b154-4014-87a4-103446d722ca,e57a355f-4909-42b1-acf3-ae3970d39423,4,0.94,self_reported,Applied Linux in enterprise projects at level 4.,False,False
+cb7f9679-b154-4014-87a4-103446d722ca,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,2b58d681-8e55-478e-b141-3aff29cad0fd,4,0.85,self_reported,Applied React in enterprise projects at level 4.,True,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,582f5336-44d1-44f8-bcca-c9db9972324f,3,0.72,self_reported,Applied Node.js in enterprise projects at level 3.,False,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.77,project_extracted,Applied JavaScript in enterprise projects at level 4.,True,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.76,project_extracted,Applied SQL in enterprise projects at level 4.,False,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.72,project_extracted,Applied REST API in enterprise projects at level 3.,False,False
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.82,manager_verified,Applied Docker in enterprise projects at level 4.,True,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.8,project_extracted,Applied Git in enterprise projects at level 2.,True,True
+f72d9fd7-f7d3-472b-b1a4-c67528f5400b,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,118c74f7-930b-487f-8325-08223167ab57,3,0.86,manager_verified,Applied Network Security in enterprise projects at level 3.,True,True
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,f4870654-1f95-42fe-9c57-96db41d2382d,4,0.74,project_extracted,Applied Threat Detection in enterprise projects at level 4.,False,True
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,f1101892-b628-4d5f-a515-0502665db3fc,4,0.93,self_reported,Applied SIEM in enterprise projects at level 4.,False,True
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,4,0.77,project_extracted,Applied Vulnerability Assessment in enterprise projects at level 4.,False,False
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab,95ca2857-397c-4d39-b31b-83c6946fc117,3,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+31bbc0ba-5f76-4ac3-993b-523a71236238,2b58d681-8e55-478e-b141-3aff29cad0fd,3,0.87,self_reported,Applied React in enterprise projects at level 3.,False,True
+31bbc0ba-5f76-4ac3-993b-523a71236238,582f5336-44d1-44f8-bcca-c9db9972324f,3,0.84,self_reported,Applied Node.js in enterprise projects at level 3.,True,False
+31bbc0ba-5f76-4ac3-993b-523a71236238,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.93,self_reported,Applied JavaScript in enterprise projects at level 4.,False,True
+31bbc0ba-5f76-4ac3-993b-523a71236238,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.8,manager_verified,Applied SQL in enterprise projects at level 3.,False,False
+31bbc0ba-5f76-4ac3-993b-523a71236238,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.93,self_reported,Applied REST API in enterprise projects at level 4.,True,False
+31bbc0ba-5f76-4ac3-993b-523a71236238,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.72,self_reported,Applied Docker in enterprise projects at level 2.,False,True
+31bbc0ba-5f76-4ac3-993b-523a71236238,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.92,self_reported,Applied Git in enterprise projects at level 3.,False,False
+31bbc0ba-5f76-4ac3-993b-523a71236238,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+3b063408-d1c8-4b40-a67e-944326f81538,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.87,project_extracted,Applied Python in enterprise projects at level 4.,False,False
+3b063408-d1c8-4b40-a67e-944326f81538,df73d56b-0da5-4af6-831f-1b98b9250f00,3,0.72,project_extracted,Applied LLM in enterprise projects at level 3.,False,True
+3b063408-d1c8-4b40-a67e-944326f81538,3f040b2d-7d14-49cc-92c9-b3896ffd4699,3,0.78,self_reported,Applied RAG in enterprise projects at level 3.,False,True
+3b063408-d1c8-4b40-a67e-944326f81538,5ace71b6-12ce-4046-b359-157b455cd14d,4,0.84,project_extracted,Applied Vector Databases in enterprise projects at level 4.,True,True
+3b063408-d1c8-4b40-a67e-944326f81538,8550a797-0b53-4eea-8f6a-6715159af69e,2,0.94,manager_verified,Applied Embeddings in enterprise projects at level 2.,True,True
+3b063408-d1c8-4b40-a67e-944326f81538,61f83cd2-f4c7-4893-92f6-11580979700b,3,0.85,self_reported,Applied PyTorch in enterprise projects at level 3.,False,True
+3b063408-d1c8-4b40-a67e-944326f81538,1996f0fa-184e-4d28-b196-f9298c20286b,4,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+81d15c93-8452-47c9-9f21-faeb216c256d,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.94,self_reported,Applied Python in enterprise projects at level 4.,False,True
+81d15c93-8452-47c9-9f21-faeb216c256d,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.88,project_extracted,Applied Docker in enterprise projects at level 4.,False,True
+81d15c93-8452-47c9-9f21-faeb216c256d,29712980-fb4c-494d-8317-1defb0da8b25,3,0.74,manager_verified,Applied Kubernetes in enterprise projects at level 3.,True,False
+81d15c93-8452-47c9-9f21-faeb216c256d,69c4b374-e0f9-4322-916c-fc2aca8c7c53,2,0.91,self_reported,Applied Machine Learning in enterprise projects at level 2.,True,False
+81d15c93-8452-47c9-9f21-faeb216c256d,93d3bd3d-b72f-4062-a983-f92e0f17d667,3,0.78,self_reported,Applied CI/CD in enterprise projects at level 3.,True,True
+81d15c93-8452-47c9-9f21-faeb216c256d,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.85,project_extracted,Applied SQL in enterprise projects at level 3.,False,False
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.8,manager_verified,Applied Excel in enterprise projects at level 3.,True,False
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,d8619e4c-70e2-4d9d-acab-8a4ec2af3842,3,0.88,self_reported,Applied Power BI in enterprise projects at level 3.,True,False
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.72,manager_verified,Applied Python in enterprise projects at level 4.,False,False
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,df2c653a-8a63-42ba-b708-bfad266615da,3,0.88,project_extracted,Applied Data Visualization in enterprise projects at level 3.,False,False
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.8,project_extracted,Applied Statistics in enterprise projects at level 3.,True,True
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+fd72e86f-d8d2-4e82-98f2-91bd3938f647,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+2771bbb8-4d72-413d-9d6a-32de6eebf13e,10f0b092-b575-4e08-aee1-88a90f97c1ac,5,0.81,self_reported,Applied Product Analytics in enterprise projects at level 5.,False,True
+2771bbb8-4d72-413d-9d6a-32de6eebf13e,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.77,manager_verified,Applied SQL in enterprise projects at level 3.,False,True
+2771bbb8-4d72-413d-9d6a-32de6eebf13e,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.87,self_reported,Applied Excel in enterprise projects at level 3.,True,True
+2771bbb8-4d72-413d-9d6a-32de6eebf13e,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+db560e71-ab6b-4dfb-8b84-57bb882816db,62fda3ec-9eef-430c-8a1e-fca3eb205e79,5,0.75,manager_verified,Applied JavaScript in enterprise projects at level 5.,False,True
+db560e71-ab6b-4dfb-8b84-57bb882816db,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,3,0.93,self_reported,Applied TypeScript in enterprise projects at level 3.,False,True
+db560e71-ab6b-4dfb-8b84-57bb882816db,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.87,manager_verified,Applied REST API in enterprise projects at level 4.,False,False
+db560e71-ab6b-4dfb-8b84-57bb882816db,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.91,manager_verified,Applied Git in enterprise projects at level 4.,False,True
+db560e71-ab6b-4dfb-8b84-57bb882816db,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+db560e71-ab6b-4dfb-8b84-57bb882816db,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+171852eb-6c3c-464f-9754-506908587dc8,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.92,self_reported,Applied Python in enterprise projects at level 4.,True,True
+171852eb-6c3c-464f-9754-506908587dc8,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.8,self_reported,Applied SQL in enterprise projects at level 4.,True,True
+171852eb-6c3c-464f-9754-506908587dc8,e5f1aba6-b645-4ba0-80dd-1a0d184c470d,5,0.8,manager_verified,Applied ETL in enterprise projects at level 5.,False,False
+171852eb-6c3c-464f-9754-506908587dc8,ac46e3ce-936e-43f1-a213-76616dcd4393,3,0.75,project_extracted,Applied PostgreSQL in enterprise projects at level 3.,False,True
+171852eb-6c3c-464f-9754-506908587dc8,7207a95f-51be-4fbd-ae8f-31fc77f43ffb,4,0.82,project_extracted,Applied Data Warehousing in enterprise projects at level 4.,False,False
+171852eb-6c3c-464f-9754-506908587dc8,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.83,manager_verified,Applied Docker in enterprise projects at level 4.,True,False
+171852eb-6c3c-464f-9754-506908587dc8,1996f0fa-184e-4d28-b196-f9298c20286b,4,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+34730649-f503-48da-9442-d6b2a94f052d,c9e661cd-37bd-4132-a10b-7a766671ffa0,5,0.73,project_extracted,Applied Selenium in enterprise projects at level 5.,True,True
+34730649-f503-48da-9442-d6b2a94f052d,cf646dbe-e071-4074-9f36-2e3e93349c85,4,0.79,self_reported,Applied Test Automation in enterprise projects at level 4.,False,False
+34730649-f503-48da-9442-d6b2a94f052d,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.89,project_extracted,Applied Python in enterprise projects at level 3.,False,False
+34730649-f503-48da-9442-d6b2a94f052d,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+34730649-f503-48da-9442-d6b2a94f052d,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.76,project_extracted,Applied Python in enterprise projects at level 4.,True,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,16c46e6c-223b-4521-8b6e-02686312ccaf,5,0.87,project_extracted,Applied SQL in enterprise projects at level 5.,True,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,e5f1aba6-b645-4ba0-80dd-1a0d184c470d,4,0.94,self_reported,Applied ETL in enterprise projects at level 4.,True,False
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,ac46e3ce-936e-43f1-a213-76616dcd4393,5,0.8,manager_verified,Applied PostgreSQL in enterprise projects at level 5.,True,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,7207a95f-51be-4fbd-ae8f-31fc77f43ffb,3,0.73,project_extracted,Applied Data Warehousing in enterprise projects at level 3.,True,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.83,manager_verified,Applied Docker in enterprise projects at level 3.,False,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+fa69d3e8-89d0-44cc-9615-98bfd7f4bf02,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+972e0658-b17c-40ed-b2fc-38311c596393,10f0b092-b575-4e08-aee1-88a90f97c1ac,5,0.81,manager_verified,Applied Product Analytics in enterprise projects at level 5.,False,False
+972e0658-b17c-40ed-b2fc-38311c596393,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.91,self_reported,Applied SQL in enterprise projects at level 4.,False,False
+972e0658-b17c-40ed-b2fc-38311c596393,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.89,manager_verified,Applied Excel in enterprise projects at level 3.,False,False
+972e0658-b17c-40ed-b2fc-38311c596393,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.72,manager_verified,Applied Python in enterprise projects at level 4.,False,False
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,69c4b374-e0f9-4322-916c-fc2aca8c7c53,4,0.87,manager_verified,Applied Machine Learning in enterprise projects at level 4.,False,False
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,88bf48ab-bb09-42e3-9197-986f064d2252,2,0.72,self_reported,Applied TensorFlow in enterprise projects at level 2.,False,True
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.87,project_extracted,Applied Statistics in enterprise projects at level 3.,False,False
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.95,manager_verified,Applied SQL in enterprise projects at level 4.,False,False
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.77,project_extracted,Applied Docker in enterprise projects at level 4.,True,True
+aefc9ec3-ab09-4fbd-80e8-b363bda255f9,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+1b5655c3-5382-4630-b0ae-d446a5b2c1bb,10f0b092-b575-4e08-aee1-88a90f97c1ac,4,0.77,project_extracted,Applied Product Analytics in enterprise projects at level 4.,True,False
+1b5655c3-5382-4630-b0ae-d446a5b2c1bb,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.88,self_reported,Applied SQL in enterprise projects at level 3.,False,True
+1b5655c3-5382-4630-b0ae-d446a5b2c1bb,98f1008a-dbc3-4ead-9486-a5e85a66c961,2,0.84,manager_verified,Applied Excel in enterprise projects at level 2.,True,False
+1b5655c3-5382-4630-b0ae-d446a5b2c1bb,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+443e8054-600a-43e4-a79d-eb3b38635c70,e57a355f-4909-42b1-acf3-ae3970d39423,3,0.74,manager_verified,Applied Linux in enterprise projects at level 3.,False,True
+443e8054-600a-43e4-a79d-eb3b38635c70,29712980-fb4c-494d-8317-1defb0da8b25,4,0.73,project_extracted,Applied Kubernetes in enterprise projects at level 4.,True,False
+443e8054-600a-43e4-a79d-eb3b38635c70,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.93,project_extracted,Applied Python in enterprise projects at level 4.,False,False
+443e8054-600a-43e4-a79d-eb3b38635c70,93d3bd3d-b72f-4062-a983-f92e0f17d667,3,0.85,manager_verified,Applied CI/CD in enterprise projects at level 3.,True,True
+443e8054-600a-43e4-a79d-eb3b38635c70,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.77,self_reported,Applied Problem Solving in enterprise projects at level 4.,True,True
+443e8054-600a-43e4-a79d-eb3b38635c70,95ca2857-397c-4d39-b31b-83c6946fc117,3,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+28ec9785-c207-4879-8fcf-fea15706f472,118c74f7-930b-487f-8325-08223167ab57,4,0.93,manager_verified,Applied Network Security in enterprise projects at level 4.,True,False
+28ec9785-c207-4879-8fcf-fea15706f472,f4870654-1f95-42fe-9c57-96db41d2382d,3,0.84,manager_verified,Applied Threat Detection in enterprise projects at level 3.,True,False
+28ec9785-c207-4879-8fcf-fea15706f472,f1101892-b628-4d5f-a515-0502665db3fc,3,0.72,self_reported,Applied SIEM in enterprise projects at level 3.,False,False
+28ec9785-c207-4879-8fcf-fea15706f472,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,4,0.73,manager_verified,Applied Vulnerability Assessment in enterprise projects at level 4.,False,False
+28ec9785-c207-4879-8fcf-fea15706f472,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+28ec9785-c207-4879-8fcf-fea15706f472,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+2b5097aa-efb4-4be9-8b6c-ed666a26860c,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.89,self_reported,Applied Agile in enterprise projects at level 3.,False,False
+2b5097aa-efb4-4be9-8b6c-ed666a26860c,5e096574-8e3e-4068-916c-83807ed7f9a8,4,0.75,manager_verified,Applied Stakeholder Management in enterprise projects at level 4.,False,False
+2b5097aa-efb4-4be9-8b6c-ed666a26860c,b025b85f-b3d4-4444-ab2d-66352c31426b,3,0.82,project_extracted,Applied Leadership in enterprise projects at level 3.,False,False
+2b5097aa-efb4-4be9-8b6c-ed666a26860c,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+e9800012-4d59-468e-aae3-5f4cecdbd09e,cbd94fcb-d158-472a-97a4-e7aa8efb09b7,5,0.8,self_reported,Applied Cloud Security in enterprise projects at level 5.,False,False
+e9800012-4d59-468e-aae3-5f4cecdbd09e,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,5,0.89,self_reported,Applied AWS in enterprise projects at level 5.,False,True
+e9800012-4d59-468e-aae3-5f4cecdbd09e,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,3,0.81,manager_verified,Applied Vulnerability Assessment in enterprise projects at level 3.,False,True
+e9800012-4d59-468e-aae3-5f4cecdbd09e,95ca2857-397c-4d39-b31b-83c6946fc117,3,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+10cfcf51-44fd-482d-893a-3e1502ac458f,82eb6ec3-15b4-4014-848b-e2839b7bdfcd,4,0.83,project_extracted,Applied Business Analysis in enterprise projects at level 4.,False,False
+10cfcf51-44fd-482d-893a-3e1502ac458f,22163dd5-3390-4046-9b40-62efbb00f353,5,0.76,manager_verified,Applied Requirement Analysis in enterprise projects at level 5.,True,False
+10cfcf51-44fd-482d-893a-3e1502ac458f,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.93,manager_verified,Applied Agile in enterprise projects at level 4.,True,True
+10cfcf51-44fd-482d-893a-3e1502ac458f,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,d43c097b-a776-4490-9272-57f42fffc162,4,0.92,manager_verified,Applied API Testing in enterprise projects at level 4.,True,False
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1,4,0.91,project_extracted,Applied Unit Testing in enterprise projects at level 4.,True,False
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.88,project_extracted,Applied SQL in enterprise projects at level 4.,False,True
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+a89dce54-d60c-4655-b594-b454945f0748,2b58d681-8e55-478e-b141-3aff29cad0fd,4,0.86,project_extracted,Applied React in enterprise projects at level 4.,True,False
+a89dce54-d60c-4655-b594-b454945f0748,582f5336-44d1-44f8-bcca-c9db9972324f,4,0.94,manager_verified,Applied Node.js in enterprise projects at level 4.,False,True
+a89dce54-d60c-4655-b594-b454945f0748,62fda3ec-9eef-430c-8a1e-fca3eb205e79,3,0.76,manager_verified,Applied JavaScript in enterprise projects at level 3.,False,True
+a89dce54-d60c-4655-b594-b454945f0748,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.81,self_reported,Applied SQL in enterprise projects at level 2.,True,False
+a89dce54-d60c-4655-b594-b454945f0748,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.87,self_reported,Applied REST API in enterprise projects at level 4.,True,False
+a89dce54-d60c-4655-b594-b454945f0748,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.77,project_extracted,Applied Docker in enterprise projects at level 2.,False,True
+a89dce54-d60c-4655-b594-b454945f0748,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.83,manager_verified,Applied Git in enterprise projects at level 3.,True,True
+a89dce54-d60c-4655-b594-b454945f0748,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.81,project_extracted,Applied Python in enterprise projects at level 3.,False,False
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,df73d56b-0da5-4af6-831f-1b98b9250f00,4,0.81,project_extracted,Applied LLM in enterprise projects at level 4.,True,False
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,3f040b2d-7d14-49cc-92c9-b3896ffd4699,5,0.73,project_extracted,Applied RAG in enterprise projects at level 5.,False,False
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,5ace71b6-12ce-4046-b359-157b455cd14d,3,0.71,manager_verified,Applied Vector Databases in enterprise projects at level 3.,False,False
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,8550a797-0b53-4eea-8f6a-6715159af69e,2,0.84,manager_verified,Applied Embeddings in enterprise projects at level 2.,True,False
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,61f83cd2-f4c7-4893-92f6-11580979700b,3,0.89,self_reported,Applied PyTorch in enterprise projects at level 3.,False,True
+ad4423b9-25c9-4315-ab1a-4b001dc1aedc,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.73,manager_verified,Applied AWS in enterprise projects at level 4.,False,False
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,c32e2e45-987e-4fcc-a235-e19584801fe9,3,0.76,project_extracted,Applied Terraform in enterprise projects at level 3.,False,False
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.82,self_reported,Applied Docker in enterprise projects at level 2.,True,True
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,e57a355f-4909-42b1-acf3-ae3970d39423,5,0.94,manager_verified,Applied Linux in enterprise projects at level 5.,False,True
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,93d3bd3d-b72f-4062-a983-f92e0f17d667,4,0.7,manager_verified,Applied CI/CD in enterprise projects at level 4.,True,False
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+70bd2d91-62d0-45ec-90c6-bc08f8afe956,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+f32fbbce-660a-4f8b-9d76-6abef2a0c3f8,82eb6ec3-15b4-4014-848b-e2839b7bdfcd,5,0.73,self_reported,Applied Business Analysis in enterprise projects at level 5.,True,False
+f32fbbce-660a-4f8b-9d76-6abef2a0c3f8,22163dd5-3390-4046-9b40-62efbb00f353,5,0.73,self_reported,Applied Requirement Analysis in enterprise projects at level 5.,True,False
+f32fbbce-660a-4f8b-9d76-6abef2a0c3f8,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.79,manager_verified,Applied Agile in enterprise projects at level 5.,False,True
+f32fbbce-660a-4f8b-9d76-6abef2a0c3f8,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.94,project_extracted,Applied Python in enterprise projects at level 4.,True,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,899f6441-4496-4d57-8cd5-c588956f561b,3,0.71,project_extracted,Applied FastAPI in enterprise projects at level 3.,True,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.72,manager_verified,Applied REST API in enterprise projects at level 4.,True,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.78,self_reported,Applied SQL in enterprise projects at level 3.,True,False
+7aafb11e-8b52-4941-8d1c-29706027bb1e,ac46e3ce-936e-43f1-a213-76616dcd4393,3,0.95,manager_verified,Applied PostgreSQL in enterprise projects at level 3.,False,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.87,self_reported,Applied Docker in enterprise projects at level 2.,True,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.9,self_reported,Applied Git in enterprise projects at level 4.,False,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.77,self_reported,Applied Problem Solving in enterprise projects at level 4.,False,True
+7aafb11e-8b52-4941-8d1c-29706027bb1e,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+14edcebd-81df-44fb-808a-c95961cb71f6,4352cf79-2000-4b4c-a3be-724e8a896174,5,0.72,self_reported,Applied Python in enterprise projects at level 5.,False,True
+14edcebd-81df-44fb-808a-c95961cb71f6,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.73,manager_verified,Applied Docker in enterprise projects at level 3.,False,False
+14edcebd-81df-44fb-808a-c95961cb71f6,29712980-fb4c-494d-8317-1defb0da8b25,3,0.81,manager_verified,Applied Kubernetes in enterprise projects at level 3.,False,True
+14edcebd-81df-44fb-808a-c95961cb71f6,69c4b374-e0f9-4322-916c-fc2aca8c7c53,2,0.91,manager_verified,Applied Machine Learning in enterprise projects at level 2.,True,False
+14edcebd-81df-44fb-808a-c95961cb71f6,93d3bd3d-b72f-4062-a983-f92e0f17d667,4,0.92,project_extracted,Applied CI/CD in enterprise projects at level 4.,False,False
+14edcebd-81df-44fb-808a-c95961cb71f6,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+14edcebd-81df-44fb-808a-c95961cb71f6,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+e10c929d-3d21-42f6-b39c-6f809b43f214,2b58d681-8e55-478e-b141-3aff29cad0fd,4,0.9,manager_verified,Applied React in enterprise projects at level 4.,True,False
+e10c929d-3d21-42f6-b39c-6f809b43f214,582f5336-44d1-44f8-bcca-c9db9972324f,2,0.8,manager_verified,Applied Node.js in enterprise projects at level 2.,False,True
+e10c929d-3d21-42f6-b39c-6f809b43f214,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.85,project_extracted,Applied JavaScript in enterprise projects at level 4.,True,True
+e10c929d-3d21-42f6-b39c-6f809b43f214,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.86,self_reported,Applied SQL in enterprise projects at level 3.,True,False
+e10c929d-3d21-42f6-b39c-6f809b43f214,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.73,project_extracted,Applied REST API in enterprise projects at level 4.,True,False
+e10c929d-3d21-42f6-b39c-6f809b43f214,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.85,manager_verified,Applied Docker in enterprise projects at level 2.,False,True
+e10c929d-3d21-42f6-b39c-6f809b43f214,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.77,project_extracted,Applied Git in enterprise projects at level 3.,False,False
+e10c929d-3d21-42f6-b39c-6f809b43f214,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,3,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+5a9db32c-53d7-4582-9966-698d72c14860,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.92,self_reported,Applied Python in enterprise projects at level 3.,True,True
+5a9db32c-53d7-4582-9966-698d72c14860,df73d56b-0da5-4af6-831f-1b98b9250f00,3,0.77,manager_verified,Applied LLM in enterprise projects at level 3.,False,False
+5a9db32c-53d7-4582-9966-698d72c14860,3f040b2d-7d14-49cc-92c9-b3896ffd4699,5,0.8,self_reported,Applied RAG in enterprise projects at level 5.,True,False
+5a9db32c-53d7-4582-9966-698d72c14860,5ace71b6-12ce-4046-b359-157b455cd14d,4,0.73,manager_verified,Applied Vector Databases in enterprise projects at level 4.,False,False
+5a9db32c-53d7-4582-9966-698d72c14860,8550a797-0b53-4eea-8f6a-6715159af69e,2,0.76,manager_verified,Applied Embeddings in enterprise projects at level 2.,True,True
+5a9db32c-53d7-4582-9966-698d72c14860,61f83cd2-f4c7-4893-92f6-11580979700b,3,0.78,self_reported,Applied PyTorch in enterprise projects at level 3.,True,False
+5a9db32c-53d7-4582-9966-698d72c14860,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+5a9db32c-53d7-4582-9966-698d72c14860,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+d6414071-d668-4785-a677-1f7003c03070,e57a355f-4909-42b1-acf3-ae3970d39423,3,0.81,self_reported,Applied Linux in enterprise projects at level 3.,False,False
+d6414071-d668-4785-a677-1f7003c03070,29712980-fb4c-494d-8317-1defb0da8b25,5,0.88,project_extracted,Applied Kubernetes in enterprise projects at level 5.,False,True
+d6414071-d668-4785-a677-1f7003c03070,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.71,project_extracted,Applied Python in enterprise projects at level 4.,True,False
+d6414071-d668-4785-a677-1f7003c03070,93d3bd3d-b72f-4062-a983-f92e0f17d667,4,0.72,self_reported,Applied CI/CD in enterprise projects at level 4.,True,False
+d6414071-d668-4785-a677-1f7003c03070,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.83,project_extracted,Applied Problem Solving in enterprise projects at level 5.,False,False
+d6414071-d668-4785-a677-1f7003c03070,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+2149d0ee-0b68-439f-a757-ac04ff9a5454,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.89,manager_verified,Applied Python in enterprise projects at level 4.,True,True
+2149d0ee-0b68-439f-a757-ac04ff9a5454,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,5,0.82,manager_verified,Applied Statistics in enterprise projects at level 5.,False,False
+2149d0ee-0b68-439f-a757-ac04ff9a5454,69c4b374-e0f9-4322-916c-fc2aca8c7c53,4,0.74,self_reported,Applied Machine Learning in enterprise projects at level 4.,False,False
+2149d0ee-0b68-439f-a757-ac04ff9a5454,ea31ee4d-610d-4982-a9f0-b402bafb05d8,4,0.9,manager_verified,Applied Pandas in enterprise projects at level 4.,True,False
+2149d0ee-0b68-439f-a757-ac04ff9a5454,d8820b57-4f6d-4ea5-908e-9865e6db8b1f,3,0.78,project_extracted,Applied Scikit-learn in enterprise projects at level 3.,True,True
+2149d0ee-0b68-439f-a757-ac04ff9a5454,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.91,self_reported,Applied SQL in enterprise projects at level 3.,True,False
+2149d0ee-0b68-439f-a757-ac04ff9a5454,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+2149d0ee-0b68-439f-a757-ac04ff9a5454,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+376f790b-e9cf-4987-af09-2ba3e553527c,4352cf79-2000-4b4c-a3be-724e8a896174,5,0.83,manager_verified,Applied Python in enterprise projects at level 5.,True,False
+376f790b-e9cf-4987-af09-2ba3e553527c,899f6441-4496-4d57-8cd5-c588956f561b,4,0.93,project_extracted,Applied FastAPI in enterprise projects at level 4.,False,False
+376f790b-e9cf-4987-af09-2ba3e553527c,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.9,manager_verified,Applied REST API in enterprise projects at level 3.,False,True
+376f790b-e9cf-4987-af09-2ba3e553527c,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.72,manager_verified,Applied SQL in enterprise projects at level 3.,False,False
+376f790b-e9cf-4987-af09-2ba3e553527c,ac46e3ce-936e-43f1-a213-76616dcd4393,3,0.88,manager_verified,Applied PostgreSQL in enterprise projects at level 3.,True,False
+376f790b-e9cf-4987-af09-2ba3e553527c,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.85,self_reported,Applied Docker in enterprise projects at level 2.,False,False
+376f790b-e9cf-4987-af09-2ba3e553527c,488fe6e6-6184-4e1a-962c-149b2aac1dc6,5,0.73,manager_verified,Applied Git in enterprise projects at level 5.,True,False
+376f790b-e9cf-4987-af09-2ba3e553527c,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.86,project_extracted,Applied Problem Solving in enterprise projects at level 5.,True,True
+376f790b-e9cf-4987-af09-2ba3e553527c,95ca2857-397c-4d39-b31b-83c6946fc117,3,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+376f790b-e9cf-4987-af09-2ba3e553527c,1996f0fa-184e-4d28-b196-f9298c20286b,4,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.87,manager_verified,Applied Python in enterprise projects at level 3.,True,False
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,df73d56b-0da5-4af6-831f-1b98b9250f00,4,0.74,manager_verified,Applied LLM in enterprise projects at level 4.,True,False
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,3f040b2d-7d14-49cc-92c9-b3896ffd4699,3,0.8,manager_verified,Applied RAG in enterprise projects at level 3.,True,False
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,5ace71b6-12ce-4046-b359-157b455cd14d,3,0.89,project_extracted,Applied Vector Databases in enterprise projects at level 3.,True,True
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,8550a797-0b53-4eea-8f6a-6715159af69e,3,0.94,project_extracted,Applied Embeddings in enterprise projects at level 3.,True,False
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,61f83cd2-f4c7-4893-92f6-11580979700b,4,0.82,project_extracted,Applied PyTorch in enterprise projects at level 4.,False,False
+da36736f-758d-47f2-8b5f-f41be4f5b1cc,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+0a107801-27d7-4221-863d-61900317b6f9,cbd94fcb-d158-472a-97a4-e7aa8efb09b7,3,0.89,project_extracted,Applied Cloud Security in enterprise projects at level 3.,False,True
+0a107801-27d7-4221-863d-61900317b6f9,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,5,0.72,self_reported,Applied AWS in enterprise projects at level 5.,False,False
+0a107801-27d7-4221-863d-61900317b6f9,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,2,0.8,project_extracted,Applied Vulnerability Assessment in enterprise projects at level 2.,False,True
+0a107801-27d7-4221-863d-61900317b6f9,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+0a107801-27d7-4221-863d-61900317b6f9,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+0b58d113-b3d5-454a-b54e-d2e80798b717,118c74f7-930b-487f-8325-08223167ab57,3,0.76,self_reported,Applied Network Security in enterprise projects at level 3.,False,True
+0b58d113-b3d5-454a-b54e-d2e80798b717,f4870654-1f95-42fe-9c57-96db41d2382d,4,0.76,self_reported,Applied Threat Detection in enterprise projects at level 4.,True,True
+0b58d113-b3d5-454a-b54e-d2e80798b717,f1101892-b628-4d5f-a515-0502665db3fc,4,0.86,manager_verified,Applied SIEM in enterprise projects at level 4.,False,True
+0b58d113-b3d5-454a-b54e-d2e80798b717,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,2,0.91,project_extracted,Applied Vulnerability Assessment in enterprise projects at level 2.,True,True
+0b58d113-b3d5-454a-b54e-d2e80798b717,1996f0fa-184e-4d28-b196-f9298c20286b,4,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+6bc14927-5f65-4650-9fef-871c381b7c11,cbd94fcb-d158-472a-97a4-e7aa8efb09b7,3,0.8,project_extracted,Applied Cloud Security in enterprise projects at level 3.,True,False
+6bc14927-5f65-4650-9fef-871c381b7c11,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.76,self_reported,Applied AWS in enterprise projects at level 4.,False,True
+6bc14927-5f65-4650-9fef-871c381b7c11,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,3,0.76,manager_verified,Applied Vulnerability Assessment in enterprise projects at level 3.,True,False
+6bc14927-5f65-4650-9fef-871c381b7c11,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+20eb45ec-67d7-465f-80c1-6421f8b89faf,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.92,project_extracted,Applied Python in enterprise projects at level 4.,False,False
+20eb45ec-67d7-465f-80c1-6421f8b89faf,df73d56b-0da5-4af6-831f-1b98b9250f00,5,0.76,manager_verified,Applied LLM in enterprise projects at level 5.,True,False
+20eb45ec-67d7-465f-80c1-6421f8b89faf,3f040b2d-7d14-49cc-92c9-b3896ffd4699,4,0.92,self_reported,Applied RAG in enterprise projects at level 4.,False,False
+20eb45ec-67d7-465f-80c1-6421f8b89faf,5ace71b6-12ce-4046-b359-157b455cd14d,2,0.9,project_extracted,Applied Vector Databases in enterprise projects at level 2.,False,False
+20eb45ec-67d7-465f-80c1-6421f8b89faf,8550a797-0b53-4eea-8f6a-6715159af69e,4,0.78,self_reported,Applied Embeddings in enterprise projects at level 4.,False,False
+20eb45ec-67d7-465f-80c1-6421f8b89faf,61f83cd2-f4c7-4893-92f6-11580979700b,3,0.93,manager_verified,Applied PyTorch in enterprise projects at level 3.,False,True
+20eb45ec-67d7-465f-80c1-6421f8b89faf,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+20eb45ec-67d7-465f-80c1-6421f8b89faf,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee,10f0b092-b575-4e08-aee1-88a90f97c1ac,5,0.79,self_reported,Applied Product Analytics in enterprise projects at level 5.,False,False
+d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.86,self_reported,Applied SQL in enterprise projects at level 4.,True,False
+d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.83,manager_verified,Applied Excel in enterprise projects at level 3.,True,True
+d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+d5aaa610-3409-4472-875b-ca6fd19ef791,c9e661cd-37bd-4132-a10b-7a766671ffa0,4,0.87,project_extracted,Applied Selenium in enterprise projects at level 4.,False,False
+d5aaa610-3409-4472-875b-ca6fd19ef791,cf646dbe-e071-4074-9f36-2e3e93349c85,3,0.84,manager_verified,Applied Test Automation in enterprise projects at level 3.,False,False
+d5aaa610-3409-4472-875b-ca6fd19ef791,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.86,self_reported,Applied Python in enterprise projects at level 3.,True,True
+d5aaa610-3409-4472-875b-ca6fd19ef791,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.92,project_extracted,Applied JavaScript in enterprise projects at level 4.,True,False
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,3,0.88,manager_verified,Applied TypeScript in enterprise projects at level 3.,False,False
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.88,manager_verified,Applied REST API in enterprise projects at level 3.,True,False
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.73,self_reported,Applied Git in enterprise projects at level 3.,True,True
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+8c36cfa8-84cc-4c0a-87e0-ceda9b35c835,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+e30e9971-5c08-432d-bc5f-8c4c2765dedd,c9e661cd-37bd-4132-a10b-7a766671ffa0,4,0.86,project_extracted,Applied Selenium in enterprise projects at level 4.,False,False
+e30e9971-5c08-432d-bc5f-8c4c2765dedd,cf646dbe-e071-4074-9f36-2e3e93349c85,4,0.92,manager_verified,Applied Test Automation in enterprise projects at level 4.,True,True
+e30e9971-5c08-432d-bc5f-8c4c2765dedd,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.83,self_reported,Applied Python in enterprise projects at level 4.,True,True
+e30e9971-5c08-432d-bc5f-8c4c2765dedd,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+e30e9971-5c08-432d-bc5f-8c4c2765dedd,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+e8ebc110-8275-477f-a0cb-5f443f25ac09,10f0b092-b575-4e08-aee1-88a90f97c1ac,4,0.85,manager_verified,Applied Product Analytics in enterprise projects at level 4.,True,True
+e8ebc110-8275-477f-a0cb-5f443f25ac09,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.91,manager_verified,Applied SQL in enterprise projects at level 4.,True,True
+e8ebc110-8275-477f-a0cb-5f443f25ac09,98f1008a-dbc3-4ead-9486-a5e85a66c961,2,0.71,manager_verified,Applied Excel in enterprise projects at level 2.,False,True
+e8ebc110-8275-477f-a0cb-5f443f25ac09,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+e8ebc110-8275-477f-a0cb-5f443f25ac09,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+d3010204-a6b6-430e-8de1-c089f5c97186,16c46e6c-223b-4521-8b6e-02686312ccaf,5,0.82,project_extracted,Applied SQL in enterprise projects at level 5.,True,False
+d3010204-a6b6-430e-8de1-c089f5c97186,98f1008a-dbc3-4ead-9486-a5e85a66c961,4,0.88,project_extracted,Applied Excel in enterprise projects at level 4.,False,True
+d3010204-a6b6-430e-8de1-c089f5c97186,d8619e4c-70e2-4d9d-acab-8a4ec2af3842,4,0.83,self_reported,Applied Power BI in enterprise projects at level 4.,False,True
+d3010204-a6b6-430e-8de1-c089f5c97186,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.73,project_extracted,Applied Python in enterprise projects at level 4.,True,True
+d3010204-a6b6-430e-8de1-c089f5c97186,df2c653a-8a63-42ba-b708-bfad266615da,3,0.71,project_extracted,Applied Data Visualization in enterprise projects at level 3.,False,True
+d3010204-a6b6-430e-8de1-c089f5c97186,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.9,manager_verified,Applied Statistics in enterprise projects at level 3.,False,True
+d3010204-a6b6-430e-8de1-c089f5c97186,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.82,manager_verified,Applied Docker in enterprise projects at level 4.,False,False
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,29712980-fb4c-494d-8317-1defb0da8b25,3,0.91,project_extracted,Applied Kubernetes in enterprise projects at level 3.,True,False
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.89,project_extracted,Applied AWS in enterprise projects at level 4.,True,False
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,e57a355f-4909-42b1-acf3-ae3970d39423,3,0.84,self_reported,Applied Linux in enterprise projects at level 3.,False,False
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,93d3bd3d-b72f-4062-a983-f92e0f17d667,3,0.8,project_extracted,Applied CI/CD in enterprise projects at level 3.,False,True
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,c32e2e45-987e-4fcc-a235-e19584801fe9,3,0.94,project_extracted,Applied Terraform in enterprise projects at level 3.,False,False
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+7fcb9a27-2d5e-4e90-acd8-953d5046f0c2,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,cbd94fcb-d158-472a-97a4-e7aa8efb09b7,4,0.78,manager_verified,Applied Cloud Security in enterprise projects at level 4.,False,True
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,5,0.95,manager_verified,Applied AWS in enterprise projects at level 5.,False,False
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,4,0.88,project_extracted,Applied Vulnerability Assessment in enterprise projects at level 4.,False,True
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,1996f0fa-184e-4d28-b196-f9298c20286b,4,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+ca2f1a7d-82f2-490f-ad83-21a7011ae9ee,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+c2f51815-6d15-4791-a5b6-f03f440f46ae,16c46e6c-223b-4521-8b6e-02686312ccaf,5,0.74,manager_verified,Applied SQL in enterprise projects at level 5.,True,True
+c2f51815-6d15-4791-a5b6-f03f440f46ae,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.75,project_extracted,Applied Excel in enterprise projects at level 3.,False,False
+c2f51815-6d15-4791-a5b6-f03f440f46ae,d8619e4c-70e2-4d9d-acab-8a4ec2af3842,4,0.8,self_reported,Applied Power BI in enterprise projects at level 4.,False,False
+c2f51815-6d15-4791-a5b6-f03f440f46ae,4352cf79-2000-4b4c-a3be-724e8a896174,2,0.88,manager_verified,Applied Python in enterprise projects at level 2.,True,False
+c2f51815-6d15-4791-a5b6-f03f440f46ae,df2c653a-8a63-42ba-b708-bfad266615da,5,0.83,project_extracted,Applied Data Visualization in enterprise projects at level 5.,True,False
+c2f51815-6d15-4791-a5b6-f03f440f46ae,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.84,manager_verified,Applied Statistics in enterprise projects at level 3.,False,False
+c2f51815-6d15-4791-a5b6-f03f440f46ae,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,4352cf79-2000-4b4c-a3be-724e8a896174,5,0.92,project_extracted,Applied Python in enterprise projects at level 5.,False,True
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,df73d56b-0da5-4af6-831f-1b98b9250f00,4,0.71,manager_verified,Applied LLM in enterprise projects at level 4.,True,False
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,3f040b2d-7d14-49cc-92c9-b3896ffd4699,5,0.86,manager_verified,Applied RAG in enterprise projects at level 5.,False,True
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,5ace71b6-12ce-4046-b359-157b455cd14d,3,0.91,project_extracted,Applied Vector Databases in enterprise projects at level 3.,False,True
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,8550a797-0b53-4eea-8f6a-6715159af69e,2,0.85,manager_verified,Applied Embeddings in enterprise projects at level 2.,True,True
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,61f83cd2-f4c7-4893-92f6-11580979700b,2,0.87,manager_verified,Applied PyTorch in enterprise projects at level 2.,True,True
+6c22f6a6-0fd1-4be8-9ce0-816706f56e44,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,3,0.93,self_reported,Applied AWS in enterprise projects at level 3.,True,True
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,c32e2e45-987e-4fcc-a235-e19584801fe9,3,0.8,self_reported,Applied Terraform in enterprise projects at level 3.,True,False
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.75,manager_verified,Applied Docker in enterprise projects at level 4.,False,True
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,e57a355f-4909-42b1-acf3-ae3970d39423,3,0.77,manager_verified,Applied Linux in enterprise projects at level 3.,True,False
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,93d3bd3d-b72f-4062-a983-f92e0f17d667,3,0.81,manager_verified,Applied CI/CD in enterprise projects at level 3.,False,True
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+d66cd70c-978e-46cc-a871-1b2e00f11a3c,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+aab02f87-cbe0-44f1-ab2a-4a46d9034c1b,10f0b092-b575-4e08-aee1-88a90f97c1ac,4,0.72,manager_verified,Applied Product Analytics in enterprise projects at level 4.,True,True
+aab02f87-cbe0-44f1-ab2a-4a46d9034c1b,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.82,self_reported,Applied SQL in enterprise projects at level 4.,True,False
+aab02f87-cbe0-44f1-ab2a-4a46d9034c1b,98f1008a-dbc3-4ead-9486-a5e85a66c961,4,0.76,project_extracted,Applied Excel in enterprise projects at level 4.,False,False
+aab02f87-cbe0-44f1-ab2a-4a46d9034c1b,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+891f60b2-6e50-44ad-a112-b0ce4f470de6,82eb6ec3-15b4-4014-848b-e2839b7bdfcd,4,0.75,self_reported,Applied Business Analysis in enterprise projects at level 4.,False,True
+891f60b2-6e50-44ad-a112-b0ce4f470de6,22163dd5-3390-4046-9b40-62efbb00f353,5,0.89,manager_verified,Applied Requirement Analysis in enterprise projects at level 5.,False,False
+891f60b2-6e50-44ad-a112-b0ce4f470de6,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.89,manager_verified,Applied Agile in enterprise projects at level 5.,True,True
+891f60b2-6e50-44ad-a112-b0ce4f470de6,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+b082f688-19fe-4760-819c-ca3b4dc1ce16,d43c097b-a776-4490-9272-57f42fffc162,4,0.91,project_extracted,Applied API Testing in enterprise projects at level 4.,True,True
+b082f688-19fe-4760-819c-ca3b4dc1ce16,ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1,5,0.72,manager_verified,Applied Unit Testing in enterprise projects at level 5.,False,True
+b082f688-19fe-4760-819c-ca3b4dc1ce16,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.73,project_extracted,Applied SQL in enterprise projects at level 4.,False,True
+b082f688-19fe-4760-819c-ca3b4dc1ce16,1996f0fa-184e-4d28-b196-f9298c20286b,4,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+b082f688-19fe-4760-819c-ca3b4dc1ce16,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+b873acd2-f505-40d2-affa-d65e2ac466a3,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.89,manager_verified,Applied Python in enterprise projects at level 4.,False,False
+b873acd2-f505-40d2-affa-d65e2ac466a3,899f6441-4496-4d57-8cd5-c588956f561b,5,0.81,project_extracted,Applied FastAPI in enterprise projects at level 5.,False,True
+b873acd2-f505-40d2-affa-d65e2ac466a3,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.86,project_extracted,Applied REST API in enterprise projects at level 4.,True,True
+b873acd2-f505-40d2-affa-d65e2ac466a3,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.83,manager_verified,Applied SQL in enterprise projects at level 4.,True,True
+b873acd2-f505-40d2-affa-d65e2ac466a3,ac46e3ce-936e-43f1-a213-76616dcd4393,2,0.94,project_extracted,Applied PostgreSQL in enterprise projects at level 2.,False,False
+b873acd2-f505-40d2-affa-d65e2ac466a3,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.76,project_extracted,Applied Docker in enterprise projects at level 3.,True,False
+b873acd2-f505-40d2-affa-d65e2ac466a3,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.93,manager_verified,Applied Git in enterprise projects at level 4.,True,True
+b873acd2-f505-40d2-affa-d65e2ac466a3,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,self_reported,Applied Problem Solving in enterprise projects at level 5.,True,True
+b873acd2-f505-40d2-affa-d65e2ac466a3,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+90379838-c371-4977-83e3-42bbc6ec9ebd,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.9,manager_verified,Applied JavaScript in enterprise projects at level 4.,False,False
+90379838-c371-4977-83e3-42bbc6ec9ebd,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,3,0.78,self_reported,Applied TypeScript in enterprise projects at level 3.,True,False
+90379838-c371-4977-83e3-42bbc6ec9ebd,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.77,manager_verified,Applied REST API in enterprise projects at level 3.,True,False
+90379838-c371-4977-83e3-42bbc6ec9ebd,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.71,project_extracted,Applied Git in enterprise projects at level 4.,False,False
+90379838-c371-4977-83e3-42bbc6ec9ebd,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+90379838-c371-4977-83e3-42bbc6ec9ebd,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+db69df78-a295-4506-8453-8b8eb7e4a70b,4352cf79-2000-4b4c-a3be-724e8a896174,5,0.84,self_reported,Applied Python in enterprise projects at level 5.,False,True
+db69df78-a295-4506-8453-8b8eb7e4a70b,899f6441-4496-4d57-8cd5-c588956f561b,4,0.75,manager_verified,Applied FastAPI in enterprise projects at level 4.,True,False
+db69df78-a295-4506-8453-8b8eb7e4a70b,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.72,manager_verified,Applied REST API in enterprise projects at level 4.,True,True
+db69df78-a295-4506-8453-8b8eb7e4a70b,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.79,manager_verified,Applied SQL in enterprise projects at level 3.,True,True
+db69df78-a295-4506-8453-8b8eb7e4a70b,ac46e3ce-936e-43f1-a213-76616dcd4393,3,0.9,manager_verified,Applied PostgreSQL in enterprise projects at level 3.,True,False
+db69df78-a295-4506-8453-8b8eb7e4a70b,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.92,project_extracted,Applied Docker in enterprise projects at level 3.,False,True
+db69df78-a295-4506-8453-8b8eb7e4a70b,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.93,manager_verified,Applied Git in enterprise projects at level 4.,True,False
+db69df78-a295-4506-8453-8b8eb7e4a70b,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.87,manager_verified,Applied Problem Solving in enterprise projects at level 4.,True,False
+db69df78-a295-4506-8453-8b8eb7e4a70b,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+9d3bcef2-0760-49cc-93d6-d17708197b42,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.8,manager_verified,Applied AWS in enterprise projects at level 4.,True,True
+9d3bcef2-0760-49cc-93d6-d17708197b42,c32e2e45-987e-4fcc-a235-e19584801fe9,2,0.77,manager_verified,Applied Terraform in enterprise projects at level 2.,False,False
+9d3bcef2-0760-49cc-93d6-d17708197b42,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.75,self_reported,Applied Docker in enterprise projects at level 3.,False,True
+9d3bcef2-0760-49cc-93d6-d17708197b42,e57a355f-4909-42b1-acf3-ae3970d39423,5,0.84,manager_verified,Applied Linux in enterprise projects at level 5.,False,False
+9d3bcef2-0760-49cc-93d6-d17708197b42,93d3bd3d-b72f-4062-a983-f92e0f17d667,4,0.94,manager_verified,Applied CI/CD in enterprise projects at level 4.,False,False
+9d3bcef2-0760-49cc-93d6-d17708197b42,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,2b58d681-8e55-478e-b141-3aff29cad0fd,5,0.73,manager_verified,Applied React in enterprise projects at level 5.,True,True
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,582f5336-44d1-44f8-bcca-c9db9972324f,3,0.7,manager_verified,Applied Node.js in enterprise projects at level 3.,False,False
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,62fda3ec-9eef-430c-8a1e-fca3eb205e79,3,0.85,manager_verified,Applied JavaScript in enterprise projects at level 3.,False,False
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.7,manager_verified,Applied SQL in enterprise projects at level 2.,False,True
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.83,project_extracted,Applied REST API in enterprise projects at level 3.,False,True
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.9,self_reported,Applied Docker in enterprise projects at level 4.,True,True
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.76,manager_verified,Applied Git in enterprise projects at level 3.,False,False
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+20fc1f8a-769e-4c70-96b5-7d1f1ea83d88,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,2b58d681-8e55-478e-b141-3aff29cad0fd,5,0.84,self_reported,Applied React in enterprise projects at level 5.,True,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,582f5336-44d1-44f8-bcca-c9db9972324f,2,0.82,project_extracted,Applied Node.js in enterprise projects at level 2.,False,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,62fda3ec-9eef-430c-8a1e-fca3eb205e79,3,0.76,manager_verified,Applied JavaScript in enterprise projects at level 3.,False,False
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.93,manager_verified,Applied SQL in enterprise projects at level 2.,False,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.93,project_extracted,Applied REST API in enterprise projects at level 4.,True,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.89,manager_verified,Applied Docker in enterprise projects at level 3.,False,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.74,self_reported,Applied Git in enterprise projects at level 3.,False,False
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+3f49b4ed-a19b-4a48-9e35-4f1f1da35b98,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,2b58d681-8e55-478e-b141-3aff29cad0fd,5,0.76,manager_verified,Applied React in enterprise projects at level 5.,False,False
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.87,manager_verified,Applied JavaScript in enterprise projects at level 4.,False,True
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,a0dc6906-6dba-4293-8320-6bf9ef5af941,4,0.9,manager_verified,Applied HTML in enterprise projects at level 4.,True,True
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,d4783fea-e915-4f1a-9245-14a93e2d68b5,4,0.74,manager_verified,Applied CSS in enterprise projects at level 4.,True,False
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,3,0.79,self_reported,Applied TypeScript in enterprise projects at level 3.,True,False
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.79,project_extracted,Applied Git in enterprise projects at level 4.,True,True
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,2,0.75,project_extracted,Applied Problem Solving in enterprise projects at level 2.,False,True
+31e7d38f-99be-45be-9fac-e2bcd3b5fb40,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+a5ba03da-e2f5-45cf-be55-1af374639a93,4352cf79-2000-4b4c-a3be-724e8a896174,5,0.74,project_extracted,Applied Python in enterprise projects at level 5.,False,False
+a5ba03da-e2f5-45cf-be55-1af374639a93,16c46e6c-223b-4521-8b6e-02686312ccaf,5,0.74,self_reported,Applied SQL in enterprise projects at level 5.,False,False
+a5ba03da-e2f5-45cf-be55-1af374639a93,e5f1aba6-b645-4ba0-80dd-1a0d184c470d,5,0.77,self_reported,Applied ETL in enterprise projects at level 5.,False,False
+a5ba03da-e2f5-45cf-be55-1af374639a93,ac46e3ce-936e-43f1-a213-76616dcd4393,4,0.88,project_extracted,Applied PostgreSQL in enterprise projects at level 4.,True,False
+a5ba03da-e2f5-45cf-be55-1af374639a93,7207a95f-51be-4fbd-ae8f-31fc77f43ffb,2,0.73,self_reported,Applied Data Warehousing in enterprise projects at level 2.,False,False
+a5ba03da-e2f5-45cf-be55-1af374639a93,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.9,project_extracted,Applied Docker in enterprise projects at level 4.,False,False
+a5ba03da-e2f5-45cf-be55-1af374639a93,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+a5ba03da-e2f5-45cf-be55-1af374639a93,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+d133ac64-cde0-4615-aa09-317c7b7c656f,c9e661cd-37bd-4132-a10b-7a766671ffa0,5,0.77,project_extracted,Applied Selenium in enterprise projects at level 5.,False,True
+d133ac64-cde0-4615-aa09-317c7b7c656f,cf646dbe-e071-4074-9f36-2e3e93349c85,4,0.85,manager_verified,Applied Test Automation in enterprise projects at level 4.,True,True
+d133ac64-cde0-4615-aa09-317c7b7c656f,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.94,self_reported,Applied Python in enterprise projects at level 4.,False,False
+d133ac64-cde0-4615-aa09-317c7b7c656f,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,2b58d681-8e55-478e-b141-3aff29cad0fd,5,0.85,manager_verified,Applied React in enterprise projects at level 5.,False,True
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,582f5336-44d1-44f8-bcca-c9db9972324f,3,0.88,manager_verified,Applied Node.js in enterprise projects at level 3.,True,True
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.86,project_extracted,Applied JavaScript in enterprise projects at level 4.,True,True
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.94,project_extracted,Applied SQL in enterprise projects at level 4.,False,True
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.72,self_reported,Applied REST API in enterprise projects at level 3.,True,False
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.8,manager_verified,Applied Docker in enterprise projects at level 3.,True,False
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.82,project_extracted,Applied Git in enterprise projects at level 2.,False,True
+159dc7f4-4482-4cef-9ec9-2f5caea2d261,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+dd66421a-d3a3-418b-af3c-b69a6c05a133,118c74f7-930b-487f-8325-08223167ab57,3,0.78,manager_verified,Applied Network Security in enterprise projects at level 3.,True,True
+dd66421a-d3a3-418b-af3c-b69a6c05a133,f4870654-1f95-42fe-9c57-96db41d2382d,4,0.86,manager_verified,Applied Threat Detection in enterprise projects at level 4.,True,True
+dd66421a-d3a3-418b-af3c-b69a6c05a133,f1101892-b628-4d5f-a515-0502665db3fc,3,0.84,project_extracted,Applied SIEM in enterprise projects at level 3.,False,False
+dd66421a-d3a3-418b-af3c-b69a6c05a133,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,3,0.9,manager_verified,Applied Vulnerability Assessment in enterprise projects at level 3.,True,True
+dd66421a-d3a3-418b-af3c-b69a6c05a133,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+dd66421a-d3a3-418b-af3c-b69a6c05a133,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+69b17375-fe97-4ff4-adab-573666c1671c,d43c097b-a776-4490-9272-57f42fffc162,4,0.75,self_reported,Applied API Testing in enterprise projects at level 4.,False,False
+69b17375-fe97-4ff4-adab-573666c1671c,ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1,4,0.85,manager_verified,Applied Unit Testing in enterprise projects at level 4.,False,True
+69b17375-fe97-4ff4-adab-573666c1671c,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.79,project_extracted,Applied SQL in enterprise projects at level 3.,True,False
+69b17375-fe97-4ff4-adab-573666c1671c,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+3ed9120a-6c58-4cf1-a302-84b31726a528,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.82,manager_verified,Applied JavaScript in enterprise projects at level 4.,True,True
+3ed9120a-6c58-4cf1-a302-84b31726a528,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,4,0.77,self_reported,Applied TypeScript in enterprise projects at level 4.,False,False
+3ed9120a-6c58-4cf1-a302-84b31726a528,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,2,0.92,self_reported,Applied REST API in enterprise projects at level 2.,False,True
+3ed9120a-6c58-4cf1-a302-84b31726a528,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.9,manager_verified,Applied Git in enterprise projects at level 3.,False,False
+3ed9120a-6c58-4cf1-a302-84b31726a528,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+3ed9120a-6c58-4cf1-a302-84b31726a528,95ca2857-397c-4d39-b31b-83c6946fc117,3,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+e3773936-d600-4048-ae4b-04d658d22e5c,d43c097b-a776-4490-9272-57f42fffc162,5,0.84,project_extracted,Applied API Testing in enterprise projects at level 5.,True,True
+e3773936-d600-4048-ae4b-04d658d22e5c,ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1,4,0.89,project_extracted,Applied Unit Testing in enterprise projects at level 4.,True,False
+e3773936-d600-4048-ae4b-04d658d22e5c,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.95,self_reported,Applied SQL in enterprise projects at level 3.,True,False
+e3773936-d600-4048-ae4b-04d658d22e5c,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+ef9fc64e-091e-4d0a-ae30-37af737db175,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.9,self_reported,Applied Docker in enterprise projects at level 4.,True,False
+ef9fc64e-091e-4d0a-ae30-37af737db175,29712980-fb4c-494d-8317-1defb0da8b25,4,0.85,self_reported,Applied Kubernetes in enterprise projects at level 4.,False,False
+ef9fc64e-091e-4d0a-ae30-37af737db175,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.84,manager_verified,Applied AWS in enterprise projects at level 4.,True,True
+ef9fc64e-091e-4d0a-ae30-37af737db175,e57a355f-4909-42b1-acf3-ae3970d39423,5,0.93,project_extracted,Applied Linux in enterprise projects at level 5.,True,True
+ef9fc64e-091e-4d0a-ae30-37af737db175,93d3bd3d-b72f-4062-a983-f92e0f17d667,4,0.74,project_extracted,Applied CI/CD in enterprise projects at level 4.,True,False
+ef9fc64e-091e-4d0a-ae30-37af737db175,c32e2e45-987e-4fcc-a235-e19584801fe9,4,0.74,manager_verified,Applied Terraform in enterprise projects at level 4.,False,False
+ef9fc64e-091e-4d0a-ae30-37af737db175,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+ef9fc64e-091e-4d0a-ae30-37af737db175,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+871be211-c5ee-4705-9d6d-686c8bc06f4a,118c74f7-930b-487f-8325-08223167ab57,5,0.75,project_extracted,Applied Network Security in enterprise projects at level 5.,True,False
+871be211-c5ee-4705-9d6d-686c8bc06f4a,f4870654-1f95-42fe-9c57-96db41d2382d,4,0.78,project_extracted,Applied Threat Detection in enterprise projects at level 4.,False,True
+871be211-c5ee-4705-9d6d-686c8bc06f4a,f1101892-b628-4d5f-a515-0502665db3fc,4,0.9,manager_verified,Applied SIEM in enterprise projects at level 4.,True,True
+871be211-c5ee-4705-9d6d-686c8bc06f4a,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,2,0.86,project_extracted,Applied Vulnerability Assessment in enterprise projects at level 2.,True,True
+871be211-c5ee-4705-9d6d-686c8bc06f4a,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+10af4015-5270-4ab5-a450-be7312c62933,2b58d681-8e55-478e-b141-3aff29cad0fd,3,0.79,manager_verified,Applied React in enterprise projects at level 3.,True,True
+10af4015-5270-4ab5-a450-be7312c62933,582f5336-44d1-44f8-bcca-c9db9972324f,4,0.86,manager_verified,Applied Node.js in enterprise projects at level 4.,True,False
+10af4015-5270-4ab5-a450-be7312c62933,62fda3ec-9eef-430c-8a1e-fca3eb205e79,3,0.88,self_reported,Applied JavaScript in enterprise projects at level 3.,True,False
+10af4015-5270-4ab5-a450-be7312c62933,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.73,self_reported,Applied SQL in enterprise projects at level 2.,False,True
+10af4015-5270-4ab5-a450-be7312c62933,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.87,self_reported,Applied REST API in enterprise projects at level 3.,False,True
+10af4015-5270-4ab5-a450-be7312c62933,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.72,project_extracted,Applied Docker in enterprise projects at level 4.,True,True
+10af4015-5270-4ab5-a450-be7312c62933,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.78,project_extracted,Applied Git in enterprise projects at level 2.,True,False
+10af4015-5270-4ab5-a450-be7312c62933,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,3,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+748d4076-e606-4ced-98a1-e902191bb47b,10f0b092-b575-4e08-aee1-88a90f97c1ac,3,0.92,self_reported,Applied Product Analytics in enterprise projects at level 3.,True,False
+748d4076-e606-4ced-98a1-e902191bb47b,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.94,project_extracted,Applied SQL in enterprise projects at level 4.,True,True
+748d4076-e606-4ced-98a1-e902191bb47b,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.86,self_reported,Applied Excel in enterprise projects at level 3.,False,True
+748d4076-e606-4ced-98a1-e902191bb47b,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+748d4076-e606-4ced-98a1-e902191bb47b,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+97a9952c-4bd6-4c86-b9ad-bc40c63c80c0,82eb6ec3-15b4-4014-848b-e2839b7bdfcd,3,0.95,project_extracted,Applied Business Analysis in enterprise projects at level 3.,True,False
+97a9952c-4bd6-4c86-b9ad-bc40c63c80c0,22163dd5-3390-4046-9b40-62efbb00f353,5,0.79,manager_verified,Applied Requirement Analysis in enterprise projects at level 5.,True,False
+97a9952c-4bd6-4c86-b9ad-bc40c63c80c0,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.7,self_reported,Applied Agile in enterprise projects at level 3.,True,False
+97a9952c-4bd6-4c86-b9ad-bc40c63c80c0,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+38d018e7-e85c-4774-95f7-1159738dd6df,62fda3ec-9eef-430c-8a1e-fca3eb205e79,4,0.72,self_reported,Applied JavaScript in enterprise projects at level 4.,True,False
+38d018e7-e85c-4774-95f7-1159738dd6df,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,4,0.85,manager_verified,Applied TypeScript in enterprise projects at level 4.,True,False
+38d018e7-e85c-4774-95f7-1159738dd6df,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.88,self_reported,Applied REST API in enterprise projects at level 4.,True,True
+38d018e7-e85c-4774-95f7-1159738dd6df,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.93,self_reported,Applied Git in enterprise projects at level 2.,False,True
+38d018e7-e85c-4774-95f7-1159738dd6df,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,3,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+38d018e7-e85c-4774-95f7-1159738dd6df,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+422735f2-7393-4a92-8be3-fa68ce24423b,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.88,self_reported,Applied SQL in enterprise projects at level 4.,True,False
+422735f2-7393-4a92-8be3-fa68ce24423b,98f1008a-dbc3-4ead-9486-a5e85a66c961,5,0.77,self_reported,Applied Excel in enterprise projects at level 5.,False,True
+422735f2-7393-4a92-8be3-fa68ce24423b,d8619e4c-70e2-4d9d-acab-8a4ec2af3842,5,0.81,project_extracted,Applied Power BI in enterprise projects at level 5.,True,False
+422735f2-7393-4a92-8be3-fa68ce24423b,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.79,project_extracted,Applied Python in enterprise projects at level 3.,True,True
+422735f2-7393-4a92-8be3-fa68ce24423b,df2c653a-8a63-42ba-b708-bfad266615da,4,0.89,self_reported,Applied Data Visualization in enterprise projects at level 4.,True,True
+422735f2-7393-4a92-8be3-fa68ce24423b,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.71,project_extracted,Applied Statistics in enterprise projects at level 3.,False,True
+422735f2-7393-4a92-8be3-fa68ce24423b,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+df0c309f-ddcf-4891-bc34-faefa5b588fd,c9e661cd-37bd-4132-a10b-7a766671ffa0,3,0.74,manager_verified,Applied Selenium in enterprise projects at level 3.,True,False
+df0c309f-ddcf-4891-bc34-faefa5b588fd,cf646dbe-e071-4074-9f36-2e3e93349c85,3,0.92,project_extracted,Applied Test Automation in enterprise projects at level 3.,False,False
+df0c309f-ddcf-4891-bc34-faefa5b588fd,4352cf79-2000-4b4c-a3be-724e8a896174,2,0.84,self_reported,Applied Python in enterprise projects at level 2.,False,True
+df0c309f-ddcf-4891-bc34-faefa5b588fd,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+df0c309f-ddcf-4891-bc34-faefa5b588fd,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+174774d0-3477-46b6-8e67-74f2da86dbef,62fda3ec-9eef-430c-8a1e-fca3eb205e79,3,0.76,project_extracted,Applied JavaScript in enterprise projects at level 3.,True,False
+174774d0-3477-46b6-8e67-74f2da86dbef,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,2,0.89,project_extracted,Applied TypeScript in enterprise projects at level 2.,False,True
+174774d0-3477-46b6-8e67-74f2da86dbef,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.83,self_reported,Applied REST API in enterprise projects at level 3.,False,False
+174774d0-3477-46b6-8e67-74f2da86dbef,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.94,self_reported,Applied Git in enterprise projects at level 2.,False,True
+174774d0-3477-46b6-8e67-74f2da86dbef,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+c4a71295-cf7b-448a-aa25-8635c899692f,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.76,project_extracted,Applied Python in enterprise projects at level 4.,False,False
+c4a71295-cf7b-448a-aa25-8635c899692f,899f6441-4496-4d57-8cd5-c588956f561b,4,0.78,project_extracted,Applied FastAPI in enterprise projects at level 4.,True,True
+c4a71295-cf7b-448a-aa25-8635c899692f,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,4,0.73,manager_verified,Applied REST API in enterprise projects at level 4.,True,True
+c4a71295-cf7b-448a-aa25-8635c899692f,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.74,project_extracted,Applied SQL in enterprise projects at level 2.,False,False
+c4a71295-cf7b-448a-aa25-8635c899692f,ac46e3ce-936e-43f1-a213-76616dcd4393,2,0.83,self_reported,Applied PostgreSQL in enterprise projects at level 2.,False,False
+c4a71295-cf7b-448a-aa25-8635c899692f,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.77,self_reported,Applied Docker in enterprise projects at level 4.,True,True
+c4a71295-cf7b-448a-aa25-8635c899692f,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.91,manager_verified,Applied Git in enterprise projects at level 4.,True,True
+c4a71295-cf7b-448a-aa25-8635c899692f,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.74,manager_verified,Applied Problem Solving in enterprise projects at level 4.,True,False
+c4a71295-cf7b-448a-aa25-8635c899692f,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+c4a71295-cf7b-448a-aa25-8635c899692f,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+e1521996-0557-444b-a09e-1954a95b05be,4352cf79-2000-4b4c-a3be-724e8a896174,2,0.72,self_reported,Applied Python in enterprise projects at level 2.,True,True
+e1521996-0557-444b-a09e-1954a95b05be,e68c35f0-8416-427d-89b3-f9dade485651,4,0.79,manager_verified,Applied Java in enterprise projects at level 4.,True,False
+e1521996-0557-444b-a09e-1954a95b05be,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.71,self_reported,Applied SQL in enterprise projects at level 2.,True,False
+e1521996-0557-444b-a09e-1954a95b05be,488fe6e6-6184-4e1a-962c-149b2aac1dc6,3,0.72,project_extracted,Applied Git in enterprise projects at level 3.,True,True
+e1521996-0557-444b-a09e-1954a95b05be,ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1,4,0.71,manager_verified,Applied Unit Testing in enterprise projects at level 4.,False,False
+e1521996-0557-444b-a09e-1954a95b05be,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.71,manager_verified,Applied Problem Solving in enterprise projects at level 4.,False,True
+e1521996-0557-444b-a09e-1954a95b05be,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,118c74f7-930b-487f-8325-08223167ab57,5,0.72,project_extracted,Applied Network Security in enterprise projects at level 5.,False,True
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,e6e5f73e-69dc-4311-9a45-4c2615602a44,5,0.75,manager_verified,Applied Incident Response in enterprise projects at level 5.,True,True
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.9,project_extracted,Applied Python in enterprise projects at level 4.,False,False
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,e57a355f-4909-42b1-acf3-ae3970d39423,3,0.93,manager_verified,Applied Linux in enterprise projects at level 3.,False,False
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+6e8ee2d8-596e-48d2-a715-b59b040e64d9,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+721009c8-f69c-418a-81af-4bc134974563,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.89,self_reported,Applied Python in enterprise projects at level 3.,False,False
+721009c8-f69c-418a-81af-4bc134974563,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.74,manager_verified,Applied SQL in enterprise projects at level 4.,False,False
+721009c8-f69c-418a-81af-4bc134974563,e5f1aba6-b645-4ba0-80dd-1a0d184c470d,3,0.88,project_extracted,Applied ETL in enterprise projects at level 3.,True,True
+721009c8-f69c-418a-81af-4bc134974563,ac46e3ce-936e-43f1-a213-76616dcd4393,5,0.84,self_reported,Applied PostgreSQL in enterprise projects at level 5.,False,True
+721009c8-f69c-418a-81af-4bc134974563,7207a95f-51be-4fbd-ae8f-31fc77f43ffb,2,0.71,manager_verified,Applied Data Warehousing in enterprise projects at level 2.,True,True
+721009c8-f69c-418a-81af-4bc134974563,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.7,manager_verified,Applied Docker in enterprise projects at level 4.,True,True
+721009c8-f69c-418a-81af-4bc134974563,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,3,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+721009c8-f69c-418a-81af-4bc134974563,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+2918579a-aa13-4331-9697-957bec0a0e4a,c9e661cd-37bd-4132-a10b-7a766671ffa0,4,0.78,self_reported,Applied Selenium in enterprise projects at level 4.,False,False
+2918579a-aa13-4331-9697-957bec0a0e4a,cf646dbe-e071-4074-9f36-2e3e93349c85,4,0.74,manager_verified,Applied Test Automation in enterprise projects at level 4.,False,True
+2918579a-aa13-4331-9697-957bec0a0e4a,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.79,manager_verified,Applied Python in enterprise projects at level 3.,False,True
+2918579a-aa13-4331-9697-957bec0a0e4a,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.81,project_extracted,Applied SQL in enterprise projects at level 4.,True,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.79,self_reported,Applied Excel in enterprise projects at level 3.,True,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,d8619e4c-70e2-4d9d-acab-8a4ec2af3842,5,0.81,project_extracted,Applied Power BI in enterprise projects at level 5.,True,False
+b7e3a441-015a-481d-a64b-ff32d0080f84,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.92,project_extracted,Applied Python in enterprise projects at level 4.,False,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,df2c653a-8a63-42ba-b708-bfad266615da,5,0.9,manager_verified,Applied Data Visualization in enterprise projects at level 5.,True,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,4,0.72,self_reported,Applied Statistics in enterprise projects at level 4.,False,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+b7e3a441-015a-481d-a64b-ff32d0080f84,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+e12846ff-3426-4ce3-ba39-808b5a608ea2,10f0b092-b575-4e08-aee1-88a90f97c1ac,5,0.94,self_reported,Applied Product Analytics in enterprise projects at level 5.,False,True
+e12846ff-3426-4ce3-ba39-808b5a608ea2,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.73,self_reported,Applied SQL in enterprise projects at level 3.,True,False
+e12846ff-3426-4ce3-ba39-808b5a608ea2,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.87,project_extracted,Applied Excel in enterprise projects at level 3.,True,True
+e12846ff-3426-4ce3-ba39-808b5a608ea2,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.74,project_extracted,Applied Python in enterprise projects at level 4.,True,False
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.78,project_extracted,Applied Statistics in enterprise projects at level 3.,False,False
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,69c4b374-e0f9-4322-916c-fc2aca8c7c53,4,0.72,manager_verified,Applied Machine Learning in enterprise projects at level 4.,False,True
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,ea31ee4d-610d-4982-a9f0-b402bafb05d8,4,0.92,project_extracted,Applied Pandas in enterprise projects at level 4.,True,False
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,d8820b57-4f6d-4ea5-908e-9865e6db8b1f,3,0.77,project_extracted,Applied Scikit-learn in enterprise projects at level 3.,False,True
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.84,self_reported,Applied SQL in enterprise projects at level 3.,True,True
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+b65cc510-dd85-4bd6-b8d9-55cb1df316de,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,cbd94fcb-d158-472a-97a4-e7aa8efb09b7,4,0.73,project_extracted,Applied Cloud Security in enterprise projects at level 4.,True,True
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.9,self_reported,Applied AWS in enterprise projects at level 4.,True,False
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,2,0.95,project_extracted,Applied Vulnerability Assessment in enterprise projects at level 2.,True,True
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+6ebf6786-0ea1-4c5f-824a-1c45094bcfea,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+865834ac-cf65-4d53-b53f-20358b2a613a,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.74,manager_verified,Applied Python in enterprise projects at level 4.,True,True
+865834ac-cf65-4d53-b53f-20358b2a613a,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.9,manager_verified,Applied Docker in enterprise projects at level 3.,False,False
+865834ac-cf65-4d53-b53f-20358b2a613a,29712980-fb4c-494d-8317-1defb0da8b25,3,0.8,project_extracted,Applied Kubernetes in enterprise projects at level 3.,False,True
+865834ac-cf65-4d53-b53f-20358b2a613a,69c4b374-e0f9-4322-916c-fc2aca8c7c53,3,0.77,self_reported,Applied Machine Learning in enterprise projects at level 3.,False,True
+865834ac-cf65-4d53-b53f-20358b2a613a,93d3bd3d-b72f-4062-a983-f92e0f17d667,4,0.92,project_extracted,Applied CI/CD in enterprise projects at level 4.,True,True
+865834ac-cf65-4d53-b53f-20358b2a613a,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+865834ac-cf65-4d53-b53f-20358b2a613a,95ca2857-397c-4d39-b31b-83c6946fc117,4,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+cadad437-fa64-499a-8495-062731233477,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.75,self_reported,Applied Python in enterprise projects at level 3.,False,False
+cadad437-fa64-499a-8495-062731233477,69c4b374-e0f9-4322-916c-fc2aca8c7c53,4,0.91,manager_verified,Applied Machine Learning in enterprise projects at level 4.,True,True
+cadad437-fa64-499a-8495-062731233477,88bf48ab-bb09-42e3-9197-986f064d2252,3,0.88,project_extracted,Applied TensorFlow in enterprise projects at level 3.,True,True
+cadad437-fa64-499a-8495-062731233477,bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,3,0.75,self_reported,Applied Statistics in enterprise projects at level 3.,True,True
+cadad437-fa64-499a-8495-062731233477,16c46e6c-223b-4521-8b6e-02686312ccaf,2,0.81,project_extracted,Applied SQL in enterprise projects at level 2.,True,False
+cadad437-fa64-499a-8495-062731233477,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.91,manager_verified,Applied Docker in enterprise projects at level 3.,False,True
+cadad437-fa64-499a-8495-062731233477,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,2b58d681-8e55-478e-b141-3aff29cad0fd,5,0.71,manager_verified,Applied React in enterprise projects at level 5.,True,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,582f5336-44d1-44f8-bcca-c9db9972324f,3,0.87,project_extracted,Applied Node.js in enterprise projects at level 3.,False,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,62fda3ec-9eef-430c-8a1e-fca3eb205e79,3,0.82,self_reported,Applied JavaScript in enterprise projects at level 3.,True,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.76,project_extracted,Applied SQL in enterprise projects at level 3.,False,False
+ab4b737e-1705-463e-a9da-d468aa42ae5f,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,5,0.91,project_extracted,Applied REST API in enterprise projects at level 5.,False,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.78,manager_verified,Applied Docker in enterprise projects at level 4.,False,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.83,manager_verified,Applied Git in enterprise projects at level 2.,False,False
+ab4b737e-1705-463e-a9da-d468aa42ae5f,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+ab4b737e-1705-463e-a9da-d468aa42ae5f,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+5186ef51-263e-4947-8016-72c4cbbce0ca,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.87,manager_verified,Applied Python in enterprise projects at level 4.,True,False
+5186ef51-263e-4947-8016-72c4cbbce0ca,899f6441-4496-4d57-8cd5-c588956f561b,4,0.76,project_extracted,Applied FastAPI in enterprise projects at level 4.,False,False
+5186ef51-263e-4947-8016-72c4cbbce0ca,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.85,manager_verified,Applied REST API in enterprise projects at level 3.,True,False
+5186ef51-263e-4947-8016-72c4cbbce0ca,16c46e6c-223b-4521-8b6e-02686312ccaf,3,0.87,manager_verified,Applied SQL in enterprise projects at level 3.,False,False
+5186ef51-263e-4947-8016-72c4cbbce0ca,ac46e3ce-936e-43f1-a213-76616dcd4393,3,0.91,manager_verified,Applied PostgreSQL in enterprise projects at level 3.,True,False
+5186ef51-263e-4947-8016-72c4cbbce0ca,178a2f9f-6d15-485e-a684-dcab469fb886,2,0.82,manager_verified,Applied Docker in enterprise projects at level 2.,False,True
+5186ef51-263e-4947-8016-72c4cbbce0ca,488fe6e6-6184-4e1a-962c-149b2aac1dc6,4,0.86,self_reported,Applied Git in enterprise projects at level 4.,False,True
+5186ef51-263e-4947-8016-72c4cbbce0ca,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.81,project_extracted,Applied Problem Solving in enterprise projects at level 4.,False,False
+5186ef51-263e-4947-8016-72c4cbbce0ca,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+5186ef51-263e-4947-8016-72c4cbbce0ca,27b67913-3fc7-415f-a8c1-bf16d08e5571,3,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+0f1ffef1-9033-46e2-9a7f-7800c5b806b5,cbd94fcb-d158-472a-97a4-e7aa8efb09b7,3,0.92,self_reported,Applied Cloud Security in enterprise projects at level 3.,True,True
+0f1ffef1-9033-46e2-9a7f-7800c5b806b5,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,4,0.8,manager_verified,Applied AWS in enterprise projects at level 4.,False,True
+0f1ffef1-9033-46e2-9a7f-7800c5b806b5,1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,3,0.92,self_reported,Applied Vulnerability Assessment in enterprise projects at level 3.,True,False
+0f1ffef1-9033-46e2-9a7f-7800c5b806b5,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+0f1ffef1-9033-46e2-9a7f-7800c5b806b5,1996f0fa-184e-4d28-b196-f9298c20286b,3,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,62fda3ec-9eef-430c-8a1e-fca3eb205e79,5,0.8,project_extracted,Applied JavaScript in enterprise projects at level 5.,False,True
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,2,0.83,manager_verified,Applied TypeScript in enterprise projects at level 2.,False,True
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,3,0.89,manager_verified,Applied REST API in enterprise projects at level 3.,True,True
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,488fe6e6-6184-4e1a-962c-149b2aac1dc6,2,0.86,self_reported,Applied Git in enterprise projects at level 2.,True,False
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,4,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+d9afe184-ae36-4e55-86e4-7ce7e2dc445a,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+108943a4-5591-4c8e-b49e-a78192d20d9e,10f0b092-b575-4e08-aee1-88a90f97c1ac,5,0.92,self_reported,Applied Product Analytics in enterprise projects at level 5.,False,False
+108943a4-5591-4c8e-b49e-a78192d20d9e,16c46e6c-223b-4521-8b6e-02686312ccaf,4,0.89,self_reported,Applied SQL in enterprise projects at level 4.,False,True
+108943a4-5591-4c8e-b49e-a78192d20d9e,98f1008a-dbc3-4ead-9486-a5e85a66c961,3,0.76,self_reported,Applied Excel in enterprise projects at level 3.,True,True
+108943a4-5591-4c8e-b49e-a78192d20d9e,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,4352cf79-2000-4b4c-a3be-724e8a896174,3,0.84,project_extracted,Applied Python in enterprise projects at level 3.,True,True
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.78,manager_verified,Applied Docker in enterprise projects at level 3.,True,False
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,29712980-fb4c-494d-8317-1defb0da8b25,3,0.8,self_reported,Applied Kubernetes in enterprise projects at level 3.,True,False
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,69c4b374-e0f9-4322-916c-fc2aca8c7c53,2,0.9,project_extracted,Applied Machine Learning in enterprise projects at level 2.,True,True
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,93d3bd3d-b72f-4062-a983-f92e0f17d667,3,0.91,self_reported,Applied CI/CD in enterprise projects at level 3.,False,False
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,5,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True
+1a401d12-1f70-4b5e-b0e1-e17adce507b8,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+84c779d6-f8c9-4919-8085-aa721f6c8b98,c9e661cd-37bd-4132-a10b-7a766671ffa0,3,0.89,self_reported,Applied Selenium in enterprise projects at level 3.,True,False
+84c779d6-f8c9-4919-8085-aa721f6c8b98,cf646dbe-e071-4074-9f36-2e3e93349c85,4,0.81,project_extracted,Applied Test Automation in enterprise projects at level 4.,False,False
+84c779d6-f8c9-4919-8085-aa721f6c8b98,4352cf79-2000-4b4c-a3be-724e8a896174,2,0.72,self_reported,Applied Python in enterprise projects at level 2.,True,False
+84c779d6-f8c9-4919-8085-aa721f6c8b98,1996f0fa-184e-4d28-b196-f9298c20286b,5,0.85,peer_review,Demonstrated strong Team Collaboration in cross-functional work.,False,True
+84c779d6-f8c9-4919-8085-aa721f6c8b98,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,3,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,178a2f9f-6d15-485e-a684-dcab469fb886,4,0.92,self_reported,Applied Docker in enterprise projects at level 4.,False,False
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,29712980-fb4c-494d-8317-1defb0da8b25,4,0.73,project_extracted,Applied Kubernetes in enterprise projects at level 4.,False,False
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,bd2dd30e-5753-4684-ad8b-defec1f4c6d6,5,0.87,project_extracted,Applied AWS in enterprise projects at level 5.,False,True
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,e57a355f-4909-42b1-acf3-ae3970d39423,3,0.73,manager_verified,Applied Linux in enterprise projects at level 3.,True,True
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,93d3bd3d-b72f-4062-a983-f92e0f17d667,3,0.8,manager_verified,Applied CI/CD in enterprise projects at level 3.,False,False
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,c32e2e45-987e-4fcc-a235-e19584801fe9,3,0.85,project_extracted,Applied Terraform in enterprise projects at level 3.,True,True
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,4,0.85,peer_review,Demonstrated strong Agile in cross-functional work.,False,True
+e349b2e3-b21a-41cf-9190-51dbb1f85cb5,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+9971b3bd-707b-48d3-89e0-5a3f73e9a8bb,c9e661cd-37bd-4132-a10b-7a766671ffa0,4,0.83,manager_verified,Applied Selenium in enterprise projects at level 4.,True,False
+9971b3bd-707b-48d3-89e0-5a3f73e9a8bb,cf646dbe-e071-4074-9f36-2e3e93349c85,4,0.82,manager_verified,Applied Test Automation in enterprise projects at level 4.,False,True
+9971b3bd-707b-48d3-89e0-5a3f73e9a8bb,4352cf79-2000-4b4c-a3be-724e8a896174,2,0.7,self_reported,Applied Python in enterprise projects at level 2.,False,False
+9971b3bd-707b-48d3-89e0-5a3f73e9a8bb,27b67913-3fc7-415f-a8c1-bf16d08e5571,4,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,4352cf79-2000-4b4c-a3be-724e8a896174,5,0.9,project_extracted,Applied Python in enterprise projects at level 5.,True,False
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,16c46e6c-223b-4521-8b6e-02686312ccaf,5,0.78,project_extracted,Applied SQL in enterprise projects at level 5.,True,True
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,e5f1aba6-b645-4ba0-80dd-1a0d184c470d,5,0.8,manager_verified,Applied ETL in enterprise projects at level 5.,True,True
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,ac46e3ce-936e-43f1-a213-76616dcd4393,4,0.92,manager_verified,Applied PostgreSQL in enterprise projects at level 4.,True,False
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,7207a95f-51be-4fbd-ae8f-31fc77f43ffb,3,0.79,self_reported,Applied Data Warehousing in enterprise projects at level 3.,True,False
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,178a2f9f-6d15-485e-a684-dcab469fb886,3,0.84,manager_verified,Applied Docker in enterprise projects at level 3.,False,False
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,27b67913-3fc7-415f-a8c1-bf16d08e5571,5,0.85,peer_review,Demonstrated strong Communication in cross-functional work.,False,True
+d95c9534-cd43-495c-80f6-b6fcc44c93ce,95ca2857-397c-4d39-b31b-83c6946fc117,3,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+d868370d-82ad-4c4a-857f-7e8339f59841,118c74f7-930b-487f-8325-08223167ab57,3,0.76,self_reported,Applied Network Security in enterprise projects at level 3.,True,True
+d868370d-82ad-4c4a-857f-7e8339f59841,e6e5f73e-69dc-4311-9a45-4c2615602a44,5,0.75,self_reported,Applied Incident Response in enterprise projects at level 5.,False,True
+d868370d-82ad-4c4a-857f-7e8339f59841,4352cf79-2000-4b4c-a3be-724e8a896174,4,0.71,manager_verified,Applied Python in enterprise projects at level 4.,True,False
+d868370d-82ad-4c4a-857f-7e8339f59841,e57a355f-4909-42b1-acf3-ae3970d39423,4,0.86,manager_verified,Applied Linux in enterprise projects at level 4.,True,False
+d868370d-82ad-4c4a-857f-7e8339f59841,95ca2857-397c-4d39-b31b-83c6946fc117,5,0.85,peer_review,Demonstrated strong Time Management in cross-functional work.,False,True
+2a3014fa-df34-4881-a735-57691d546152,6c268b76-4bcf-48ef-85e3-c692f6f7fc75,5,0.8,manager_verified,Applied Agile in enterprise projects at level 5.,True,False
+2a3014fa-df34-4881-a735-57691d546152,5e096574-8e3e-4068-916c-83807ed7f9a8,5,0.94,project_extracted,Applied Stakeholder Management in enterprise projects at level 5.,False,True
+2a3014fa-df34-4881-a735-57691d546152,b025b85f-b3d4-4444-ab2d-66352c31426b,4,0.8,manager_verified,Applied Leadership in enterprise projects at level 4.,False,False
+2a3014fa-df34-4881-a735-57691d546152,13229b41-a1f2-4d2f-91a3-cb4638ce4cef,3,0.85,peer_review,Demonstrated strong Problem Solving in cross-functional work.,False,True

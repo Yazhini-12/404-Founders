@@ -1,0 +1,452 @@
+[
+  {
+    "id": "4352cf79-2000-4b4c-a3be-724e8a896174",
+    "name": "Python",
+    "category": "technical",
+    "description": "High-level programming language for web, data, and AI."
+  },
+  {
+    "id": "e68c35f0-8416-427d-89b3-f9dade485651",
+    "name": "Java",
+    "category": "technical",
+    "description": "Object-oriented enterprise programming language."
+  },
+  {
+    "id": "62fda3ec-9eef-430c-8a1e-fca3eb205e79",
+    "name": "JavaScript",
+    "category": "technical",
+    "description": "Dynamic script language for client-side and server-side web."
+  },
+  {
+    "id": "a77d6c17-a31e-49fe-ac9f-7bf36800ccf0",
+    "name": "TypeScript",
+    "category": "technical",
+    "description": "Typed superset of JavaScript."
+  },
+  {
+    "id": "7ba9dcab-e274-4837-b26b-8ddfbf2664a1",
+    "name": "C++",
+    "category": "technical",
+    "description": "Performance-critical system programming language."
+  },
+  {
+    "id": "16c46e6c-223b-4521-8b6e-02686312ccaf",
+    "name": "SQL",
+    "category": "technical",
+    "description": "Structured Query Language for database query and management."
+  },
+  {
+    "id": "a0dc6906-6dba-4293-8320-6bf9ef5af941",
+    "name": "HTML",
+    "category": "technical",
+    "description": "Standard markup language for document structure."
+  },
+  {
+    "id": "d4783fea-e915-4f1a-9245-14a93e2d68b5",
+    "name": "CSS",
+    "category": "technical",
+    "description": "Style sheet language for visual presentation."
+  },
+  {
+    "id": "2b58d681-8e55-478e-b141-3aff29cad0fd",
+    "name": "React",
+    "category": "technical",
+    "description": "Frontend UI library for component-based applications."
+  },
+  {
+    "id": "3fdce963-18d3-4513-9215-fd41790bf688",
+    "name": "Next.js",
+    "category": "technical",
+    "description": "React framework for server-side rendering and static sites."
+  },
+  {
+    "id": "582f5336-44d1-44f8-bcca-c9db9972324f",
+    "name": "Node.js",
+    "category": "technical",
+    "description": "JavaScript runtime for building backend APIs."
+  },
+  {
+    "id": "f9659160-cac4-4e5b-9668-e1939d308c2a",
+    "name": "Express.js",
+    "category": "technical",
+    "description": "Web app framework for Node.js."
+  },
+  {
+    "id": "899f6441-4496-4d57-8cd5-c588956f561b",
+    "name": "FastAPI",
+    "category": "technical",
+    "description": "Modern high-performance Python web framework."
+  },
+  {
+    "id": "98ec08f3-dccf-473a-979a-5edf24ab4388",
+    "name": "Spring Boot",
+    "category": "technical",
+    "description": "Java enterprise backend framework."
+  },
+  {
+    "id": "5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2",
+    "name": "REST API",
+    "category": "technical",
+    "description": "Architectural style for Web APIs."
+  },
+  {
+    "id": "e238b602-79c8-4c56-ab25-001821ec32d9",
+    "name": "Microservices",
+    "category": "technical",
+    "description": "Distributed architecture pattern."
+  },
+  {
+    "id": "ac46e3ce-936e-43f1-a213-76616dcd4393",
+    "name": "PostgreSQL",
+    "category": "technical",
+    "description": "Advanced open-source relational database."
+  },
+  {
+    "id": "3549b7ce-234c-4803-99fc-8e19c65e43c6",
+    "name": "MongoDB",
+    "category": "technical",
+    "description": "Document-oriented NoSQL database."
+  },
+  {
+    "id": "aec0cf32-2dab-4b75-9af4-ef1da1b76836",
+    "name": "Redis",
+    "category": "technical",
+    "description": "In-memory data structure store for caching."
+  },
+  {
+    "id": "ea31ee4d-610d-4982-a9f0-b402bafb05d8",
+    "name": "Pandas",
+    "category": "technical",
+    "description": "Python data manipulation library."
+  },
+  {
+    "id": "828c8c3b-34ec-416b-897b-c284cbffbf99",
+    "name": "NumPy",
+    "category": "technical",
+    "description": "Numerical computing library for Python."
+  },
+  {
+    "id": "d8619e4c-70e2-4d9d-acab-8a4ec2af3842",
+    "name": "Power BI",
+    "category": "domain",
+    "description": "Business analytics tool for dynamic dashboards."
+  },
+  {
+    "id": "98f1008a-dbc3-4ead-9486-a5e85a66c961",
+    "name": "Excel",
+    "category": "domain",
+    "description": "Spreadsheet calculations and data analysis."
+  },
+  {
+    "id": "df2c653a-8a63-42ba-b708-bfad266615da",
+    "name": "Data Visualization",
+    "category": "domain",
+    "description": "Presenting complex data visually."
+  },
+  {
+    "id": "bdb9b5da-2b2d-408a-9e77-aa304dbf61a8",
+    "name": "Statistics",
+    "category": "technical",
+    "description": "Mathematical statistical modeling and analysis."
+  },
+  {
+    "id": "e5f1aba6-b645-4ba0-80dd-1a0d184c470d",
+    "name": "ETL",
+    "category": "technical",
+    "description": "Extract, Transform, Load data pipelines."
+  },
+  {
+    "id": "7207a95f-51be-4fbd-ae8f-31fc77f43ffb",
+    "name": "Data Warehousing",
+    "category": "domain",
+    "description": "Central storage of integrated data."
+  },
+  {
+    "id": "69c4b374-e0f9-4322-916c-fc2aca8c7c53",
+    "name": "Machine Learning",
+    "category": "technical",
+    "description": "Algorithms learning patterns from data."
+  },
+  {
+    "id": "f71aa9bb-68bb-4bdd-a6db-f3f3d5724369",
+    "name": "Deep Learning",
+    "category": "technical",
+    "description": "Neural networks for complex decision making."
+  },
+  {
+    "id": "d8820b57-4f6d-4ea5-908e-9865e6db8b1f",
+    "name": "Scikit-learn",
+    "category": "technical",
+    "description": "Python machine learning toolkit."
+  },
+  {
+    "id": "88bf48ab-bb09-42e3-9197-986f064d2252",
+    "name": "TensorFlow",
+    "category": "technical",
+    "description": "Open source platform for machine learning models."
+  },
+  {
+    "id": "61f83cd2-f4c7-4893-92f6-11580979700b",
+    "name": "PyTorch",
+    "category": "technical",
+    "description": "Deep learning framework for tensor calculations."
+  },
+  {
+    "id": "6d0c9a3b-f410-48bc-81ee-79a5d517bded",
+    "name": "NLP",
+    "category": "technical",
+    "description": "Natural Language Processing."
+  },
+  {
+    "id": "3994143c-c88b-4d2a-8b74-39e47fe39582",
+    "name": "Computer Vision",
+    "category": "technical",
+    "description": "Visual data processing and pattern recognition."
+  },
+  {
+    "id": "df73d56b-0da5-4af6-831f-1b98b9250f00",
+    "name": "LLM",
+    "category": "technical",
+    "description": "Large Language Models fine-tuning and inference."
+  },
+  {
+    "id": "3f040b2d-7d14-49cc-92c9-b3896ffd4699",
+    "name": "RAG",
+    "category": "technical",
+    "description": "Retrieval-Augmented Generation for AI knowledge search."
+  },
+  {
+    "id": "e1c7b39f-812a-455c-b6fa-e042fc05f092",
+    "name": "Prompt Engineering",
+    "category": "technical",
+    "description": "Crafting optimal prompts for AI foundation models."
+  },
+  {
+    "id": "5ace71b6-12ce-4046-b359-157b455cd14d",
+    "name": "Vector Databases",
+    "category": "technical",
+    "description": "High-dimensional vector storage (Pinecone, PGVector)."
+  },
+  {
+    "id": "8550a797-0b53-4eea-8f6a-6715159af69e",
+    "name": "Embeddings",
+    "category": "technical",
+    "description": "Vector representations of text and data."
+  },
+  {
+    "id": "bd2dd30e-5753-4684-ad8b-defec1f4c6d6",
+    "name": "AWS",
+    "category": "technical",
+    "description": "Amazon Web Services cloud computing suite."
+  },
+  {
+    "id": "a272fa3e-ece0-4cc7-9785-67199e0ff887",
+    "name": "Azure",
+    "category": "technical",
+    "description": "Microsoft Azure cloud services."
+  },
+  {
+    "id": "178a2f9f-6d15-485e-a684-dcab469fb886",
+    "name": "Docker",
+    "category": "technical",
+    "description": "Container deployment platform."
+  },
+  {
+    "id": "29712980-fb4c-494d-8317-1defb0da8b25",
+    "name": "Kubernetes",
+    "category": "technical",
+    "description": "Container orchestration system."
+  },
+  {
+    "id": "e57a355f-4909-42b1-acf3-ae3970d39423",
+    "name": "Linux",
+    "category": "technical",
+    "description": "Unix-like open source operating system."
+  },
+  {
+    "id": "c32e2e45-987e-4fcc-a235-e19584801fe9",
+    "name": "Terraform",
+    "category": "technical",
+    "description": "Infrastructure as Code tool."
+  },
+  {
+    "id": "93d3bd3d-b72f-4062-a983-f92e0f17d667",
+    "name": "CI/CD",
+    "category": "technical",
+    "description": "Continuous Integration and Continuous Deployment."
+  },
+  {
+    "id": "488fe6e6-6184-4e1a-962c-149b2aac1dc6",
+    "name": "Git",
+    "category": "technical",
+    "description": "Distributed version control system."
+  },
+  {
+    "id": "03b0ecc6-acbc-481c-a46a-6f209ae8c73a",
+    "name": "GitHub",
+    "category": "technical",
+    "description": "Code hosting and collaboration platform."
+  },
+  {
+    "id": "118c74f7-930b-487f-8325-08223167ab57",
+    "name": "Network Security",
+    "category": "domain",
+    "description": "Protecting network infrastructure from intrusion."
+  },
+  {
+    "id": "cbd94fcb-d158-472a-97a4-e7aa8efb09b7",
+    "name": "Cloud Security",
+    "category": "domain",
+    "description": "Securing cloud environments and workloads."
+  },
+  {
+    "id": "f1101892-b628-4d5f-a515-0502665db3fc",
+    "name": "SIEM",
+    "category": "domain",
+    "description": "Security Information and Event Management."
+  },
+  {
+    "id": "f4870654-1f95-42fe-9c57-96db41d2382d",
+    "name": "Threat Detection",
+    "category": "domain",
+    "description": "Identifying potential security risks."
+  },
+  {
+    "id": "e6e5f73e-69dc-4311-9a45-4c2615602a44",
+    "name": "Incident Response",
+    "category": "domain",
+    "description": "Managing and mitigating security incidents."
+  },
+  {
+    "id": "1f82e66e-3f1d-4f9c-a3c3-fe70ef440608",
+    "name": "Vulnerability Assessment",
+    "category": "domain",
+    "description": "Evaluating security weaknesses."
+  },
+  {
+    "id": "c9e661cd-37bd-4132-a10b-7a766671ffa0",
+    "name": "Selenium",
+    "category": "technical",
+    "description": "Web browser automation testing tool."
+  },
+  {
+    "id": "d43c097b-a776-4490-9272-57f42fffc162",
+    "name": "API Testing",
+    "category": "technical",
+    "description": "Validating functionality and security of REST APIs."
+  },
+  {
+    "id": "cf646dbe-e071-4074-9f36-2e3e93349c85",
+    "name": "Test Automation",
+    "category": "technical",
+    "description": "Automating software test suites."
+  },
+  {
+    "id": "ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1",
+    "name": "Unit Testing",
+    "category": "technical",
+    "description": "Testing individual software components."
+  },
+  {
+    "id": "82eb6ec3-15b4-4014-848b-e2839b7bdfcd",
+    "name": "Business Analysis",
+    "category": "domain",
+    "description": "Identifying business needs and solutions."
+  },
+  {
+    "id": "10f0b092-b575-4e08-aee1-88a90f97c1ac",
+    "name": "Product Analytics",
+    "category": "domain",
+    "description": "Tracking user behavioral metrics."
+  },
+  {
+    "id": "22163dd5-3390-4046-9b40-62efbb00f353",
+    "name": "Requirement Analysis",
+    "category": "domain",
+    "description": "Gathering user stories and requirements."
+  },
+  {
+    "id": "6c268b76-4bcf-48ef-85e3-c692f6f7fc75",
+    "name": "Agile",
+    "category": "transferable",
+    "description": "Iterative software development approach."
+  },
+  {
+    "id": "e5fff664-8a14-4eca-be8f-a782ba8cfa96",
+    "name": "Scrum",
+    "category": "transferable",
+    "description": "Agile framework for team collaboration."
+  },
+  {
+    "id": "27b67913-3fc7-415f-a8c1-bf16d08e5571",
+    "name": "Communication",
+    "category": "soft",
+    "description": "Clear verbal and written information sharing."
+  },
+  {
+    "id": "b025b85f-b3d4-4444-ab2d-66352c31426b",
+    "name": "Leadership",
+    "category": "soft",
+    "description": "Guiding teams and inspiring goal achievement."
+  },
+  {
+    "id": "13229b41-a1f2-4d2f-91a3-cb4638ce4cef",
+    "name": "Problem Solving",
+    "category": "transferable",
+    "description": "Analytical approach to overcoming obstacles."
+  },
+  {
+    "id": "1996f0fa-184e-4d28-b196-f9298c20286b",
+    "name": "Team Collaboration",
+    "category": "soft",
+    "description": "Working effectively across peer groups."
+  },
+  {
+    "id": "8bb81f9e-89ed-4b11-b0a2-95e0a93650ba",
+    "name": "Analytical Thinking",
+    "category": "transferable",
+    "description": "Evaluating data logically."
+  },
+  {
+    "id": "5e096574-8e3e-4068-916c-83807ed7f9a8",
+    "name": "Stakeholder Management",
+    "category": "transferable",
+    "description": "Aligning project expectations with business leaders."
+  },
+  {
+    "id": "5c409b16-8555-4de2-998f-80be95bf5e8e",
+    "name": "Presentation",
+    "category": "soft",
+    "description": "Delivering effective talks and visual decks."
+  },
+  {
+    "id": "bc04e445-148e-4b5a-852a-5d137e618c78",
+    "name": "Decision Making",
+    "category": "transferable",
+    "description": "Choosing optimal paths under uncertainty."
+  },
+  {
+    "id": "4221912c-baa3-4370-aa48-33833bd74399",
+    "name": "Project Coordination",
+    "category": "transferable",
+    "description": "Managing timelines and project deliverables."
+  },
+  {
+    "id": "30773fa6-1f73-4995-87e3-ad87d76ff0d6",
+    "name": "Cross-functional Collaboration",
+    "category": "transferable",
+    "description": "Partnering across distinct business departments."
+  },
+  {
+    "id": "95ca2857-397c-4d39-b31b-83c6946fc117",
+    "name": "Time Management",
+    "category": "soft",
+    "description": "Prioritizing tasks and meeting deadlines."
+  },
+  {
+    "id": "62563719-716d-4a95-ab7d-f58384ab6abc",
+    "name": "Mentoring",
+    "category": "soft",
+    "description": "Coaching junior team members."
+  }
+]

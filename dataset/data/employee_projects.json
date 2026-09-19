@@ -1,0 +1,1242 @@
+[
+  {
+    "employee_id": "6b7caa54-6256-45fe-aff1-348f381337da",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Lead Backend Developer",
+    "contribution": "Developed REST APIs using FastAPI and PostgreSQL and containerized services using Docker.",
+    "start_date": "2023-03-01",
+    "end_date": "2023-11-30"
+  },
+  {
+    "employee_id": "936fbdc1-749b-49b8-aa18-464519340237",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "71aefff6-4688-4280-9027-ea1819a7b67c",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "cb7f9679-b154-4014-87a4-103446d722ca",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Security Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "f72d9fd7-f7d3-472b-b1a4-c67528f5400b",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "f72d9fd7-f7d3-472b-b1a4-c67528f5400b",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "9904bdac-3b1d-48bc-b6e7-4cf8e69cb6ab",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Cybersecurity Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "31bbc0ba-5f76-4ac3-993b-523a71236238",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "31bbc0ba-5f76-4ac3-993b-523a71236238",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "3b063408-d1c8-4b40-a67e-944326f81538",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "81d15c93-8452-47c9-9f21-faeb216c256d",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "81d15c93-8452-47c9-9f21-faeb216c256d",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "fd72e86f-d8d2-4e82-98f2-91bd3938f647",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "fd72e86f-d8d2-4e82-98f2-91bd3938f647",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2771bbb8-4d72-413d-9d6a-32de6eebf13e",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2771bbb8-4d72-413d-9d6a-32de6eebf13e",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "db560e71-ab6b-4dfb-8b84-57bb882816db",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "db560e71-ab6b-4dfb-8b84-57bb882816db",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "171852eb-6c3c-464f-9754-506908587dc8",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "171852eb-6c3c-464f-9754-506908587dc8",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "34730649-f503-48da-9442-d6b2a94f052d",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "fa69d3e8-89d0-44cc-9615-98bfd7f4bf02",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "fa69d3e8-89d0-44cc-9615-98bfd7f4bf02",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "972e0658-b17c-40ed-b2fc-38311c596393",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "aefc9ec3-ab09-4fbd-80e8-b363bda255f9",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Machine Learning Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "1b5655c3-5382-4630-b0ae-d446a5b2c1bb",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "1b5655c3-5382-4630-b0ae-d446a5b2c1bb",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "443e8054-600a-43e4-a79d-eb3b38635c70",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Site Reliability Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "28ec9785-c207-4879-8fcf-fea15706f472",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Cybersecurity Analyst",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2b5097aa-efb4-4be9-8b6c-ed666a26860c",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Product Manager",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2b5097aa-efb4-4be9-8b6c-ed666a26860c",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Product Manager",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e9800012-4d59-468e-aae3-5f4cecdbd09e",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "10cfcf51-44fd-482d-893a-3e1502ac458f",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "10cfcf51-44fd-482d-893a-3e1502ac458f",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "QA Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "a0e0d9ec-5ca1-49a8-82ea-8b5067ac3d31",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "QA Engineer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "a89dce54-d60c-4655-b594-b454945f0748",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "a89dce54-d60c-4655-b594-b454945f0748",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ad4423b9-25c9-4315-ab1a-4b001dc1aedc",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "70bd2d91-62d0-45ec-90c6-bc08f8afe956",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Cloud Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "f32fbbce-660a-4f8b-9d76-6abef2a0c3f8",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "f32fbbce-660a-4f8b-9d76-6abef2a0c3f8",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "7aafb11e-8b52-4941-8d1c-29706027bb1e",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "7aafb11e-8b52-4941-8d1c-29706027bb1e",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "14edcebd-81df-44fb-808a-c95961cb71f6",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "14edcebd-81df-44fb-808a-c95961cb71f6",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e10c929d-3d21-42f6-b39c-6f809b43f214",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e10c929d-3d21-42f6-b39c-6f809b43f214",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "5a9db32c-53d7-4582-9966-698d72c14860",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "5a9db32c-53d7-4582-9966-698d72c14860",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d6414071-d668-4785-a677-1f7003c03070",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Site Reliability Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2149d0ee-0b68-439f-a757-ac04ff9a5454",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Data Scientist",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "376f790b-e9cf-4987-af09-2ba3e553527c",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "376f790b-e9cf-4987-af09-2ba3e553527c",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "da36736f-758d-47f2-8b5f-f41be4f5b1cc",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "0a107801-27d7-4221-863d-61900317b6f9",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "0a107801-27d7-4221-863d-61900317b6f9",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "0b58d113-b3d5-454a-b54e-d2e80798b717",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Cybersecurity Analyst",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6bc14927-5f65-4650-9fef-871c381b7c11",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6bc14927-5f65-4650-9fef-871c381b7c11",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "20eb45ec-67d7-465f-80c1-6421f8b89faf",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "20eb45ec-67d7-465f-80c1-6421f8b89faf",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d99e7fa8-2109-4f28-9bb0-49f9bc6c82ee",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d5aaa610-3409-4472-875b-ca6fd19ef791",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d5aaa610-3409-4472-875b-ca6fd19ef791",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "8c36cfa8-84cc-4c0a-87e0-ceda9b35c835",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "8c36cfa8-84cc-4c0a-87e0-ceda9b35c835",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e30e9971-5c08-432d-bc5f-8c4c2765dedd",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e8ebc110-8275-477f-a0cb-5f443f25ac09",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e8ebc110-8275-477f-a0cb-5f443f25ac09",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d3010204-a6b6-430e-8de1-c089f5c97186",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d3010204-a6b6-430e-8de1-c089f5c97186",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "7fcb9a27-2d5e-4e90-acd8-953d5046f0c2",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "DevOps Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "7fcb9a27-2d5e-4e90-acd8-953d5046f0c2",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "DevOps Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ca2f1a7d-82f2-490f-ad83-21a7011ae9ee",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ca2f1a7d-82f2-490f-ad83-21a7011ae9ee",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "c2f51815-6d15-4791-a5b6-f03f440f46ae",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "c2f51815-6d15-4791-a5b6-f03f440f46ae",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6c22f6a6-0fd1-4be8-9ce0-816706f56e44",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6c22f6a6-0fd1-4be8-9ce0-816706f56e44",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "AI Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d66cd70c-978e-46cc-a871-1b2e00f11a3c",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Cloud Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "aab02f87-cbe0-44f1-ab2a-4a46d9034c1b",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "aab02f87-cbe0-44f1-ab2a-4a46d9034c1b",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "891f60b2-6e50-44ad-a112-b0ce4f470de6",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "891f60b2-6e50-44ad-a112-b0ce4f470de6",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "b082f688-19fe-4760-819c-ca3b4dc1ce16",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "QA Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "b873acd2-f505-40d2-affa-d65e2ac466a3",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "90379838-c371-4977-83e3-42bbc6ec9ebd",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "db69df78-a295-4506-8453-8b8eb7e4a70b",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "db69df78-a295-4506-8453-8b8eb7e4a70b",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "9d3bcef2-0760-49cc-93d6-d17708197b42",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Cloud Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "20fc1f8a-769e-4c70-96b5-7d1f1ea83d88",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "20fc1f8a-769e-4c70-96b5-7d1f1ea83d88",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "3f49b4ed-a19b-4a48-9e35-4f1f1da35b98",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "3f49b4ed-a19b-4a48-9e35-4f1f1da35b98",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "31e7d38f-99be-45be-9fac-e2bcd3b5fb40",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Frontend Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "a5ba03da-e2f5-45cf-be55-1af374639a93",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d133ac64-cde0-4615-aa09-317c7b7c656f",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d133ac64-cde0-4615-aa09-317c7b7c656f",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "159dc7f4-4482-4cef-9ec9-2f5caea2d261",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "159dc7f4-4482-4cef-9ec9-2f5caea2d261",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "dd66421a-d3a3-418b-af3c-b69a6c05a133",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Cybersecurity Analyst",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "69b17375-fe97-4ff4-adab-573666c1671c",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "QA Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "3ed9120a-6c58-4cf1-a302-84b31726a528",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e3773936-d600-4048-ae4b-04d658d22e5c",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "QA Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e3773936-d600-4048-ae4b-04d658d22e5c",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "QA Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ef9fc64e-091e-4d0a-ae30-37af737db175",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "DevOps Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ef9fc64e-091e-4d0a-ae30-37af737db175",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "DevOps Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "871be211-c5ee-4705-9d6d-686c8bc06f4a",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Cybersecurity Analyst",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "10af4015-5270-4ab5-a450-be7312c62933",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "748d4076-e606-4ced-98a1-e902191bb47b",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "748d4076-e606-4ced-98a1-e902191bb47b",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "97a9952c-4bd6-4c86-b9ad-bc40c63c80c0",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "97a9952c-4bd6-4c86-b9ad-bc40c63c80c0",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Business Analyst",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "38d018e7-e85c-4774-95f7-1159738dd6df",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "422735f2-7393-4a92-8be3-fa68ce24423b",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "422735f2-7393-4a92-8be3-fa68ce24423b",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "df0c309f-ddcf-4891-bc34-faefa5b588fd",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "174774d0-3477-46b6-8e67-74f2da86dbef",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "174774d0-3477-46b6-8e67-74f2da86dbef",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "c4a71295-cf7b-448a-aa25-8635c899692f",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "c4a71295-cf7b-448a-aa25-8635c899692f",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e1521996-0557-444b-a09e-1954a95b05be",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Software Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e1521996-0557-444b-a09e-1954a95b05be",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Software Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6e8ee2d8-596e-48d2-a715-b59b040e64d9",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Security Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "721009c8-f69c-418a-81af-4bc134974563",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2918579a-aa13-4331-9697-957bec0a0e4a",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2918579a-aa13-4331-9697-957bec0a0e4a",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "b7e3a441-015a-481d-a64b-ff32d0080f84",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Data Analyst",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e12846ff-3426-4ce3-ba39-808b5a608ea2",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e12846ff-3426-4ce3-ba39-808b5a608ea2",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "b65cc510-dd85-4bd6-b8d9-55cb1df316de",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Data Scientist",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6ebf6786-0ea1-4c5f-824a-1c45094bcfea",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "6ebf6786-0ea1-4c5f-824a-1c45094bcfea",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "865834ac-cf65-4d53-b53f-20358b2a613a",
+    "project_id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Executive KPI Dashboard & ETL Pipeline execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "865834ac-cf65-4d53-b53f-20358b2a613a",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "cadad437-fa64-499a-8495-062731233477",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Machine Learning Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "cadad437-fa64-499a-8495-062731233477",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "Machine Learning Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ab4b737e-1705-463e-a9da-d468aa42ae5f",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "ab4b737e-1705-463e-a9da-d468aa42ae5f",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Full Stack Developer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "5186ef51-263e-4947-8016-72c4cbbce0ca",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Backend Developer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "0f1ffef1-9033-46e2-9a7f-7800c5b806b5",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Cloud Security Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d9afe184-ae36-4e55-86e4-7ce7e2dc445a",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d9afe184-ae36-4e55-86e4-7ce7e2dc445a",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Mobile Developer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "108943a4-5591-4c8e-b49e-a78192d20d9e",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Product Analyst",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "1a401d12-1f70-4b5e-b0e1-e17adce507b8",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "MLOps Engineer",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "84c779d6-f8c9-4919-8085-aa721f6c8b98",
+    "project_id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to High-Throughput Microservice Billing API execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "e349b2e3-b21a-41cf-9190-51dbb1f85cb5",
+    "project_id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "project_role": "DevOps Engineer",
+    "contribution": "Contributed to Customer Churn Prediction Platform execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "9971b3bd-707b-48d3-89e0-5a3f73e9a8bb",
+    "project_id": "791b2572-0240-4c17-8346-31669043a87b",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Enterprise Knowledge Search with RAG & Vector DB execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "9971b3bd-707b-48d3-89e0-5a3f73e9a8bb",
+    "project_id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "project_role": "Automation Test Engineer",
+    "contribution": "Contributed to Multi-Cloud Infrastructure Automation execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d95c9534-cd43-495c-80f6-b6fcc44c93ce",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Data Engineer",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "d868370d-82ad-4c4a-857f-7e8339f59841",
+    "project_id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "project_role": "Security Engineer",
+    "contribution": "Contributed to Automated Web & API Regression Suite execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2a3014fa-df34-4881-a735-57691d546152",
+    "project_id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "project_role": "Product Manager",
+    "contribution": "Contributed to Cloud Security Monitoring & SIEM Guardrail execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  },
+  {
+    "employee_id": "2a3014fa-df34-4881-a735-57691d546152",
+    "project_id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "project_role": "Product Manager",
+    "contribution": "Contributed to Next-Gen Mobile Self-Service App execution.",
+    "start_date": "2023-01-10",
+    "end_date": "2023-10-15"
+  }
+]

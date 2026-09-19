@@ -1,0 +1,142 @@
+[
+  {
+    "id": "fd7f160b-d24b-4d54-963c-ec5f364869da",
+    "title": "Python Fundamentals",
+    "provider": "Coursera",
+    "description": "Learn key competencies in Python.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "b26daf8f-6044-49d8-ae67-05f917958d40",
+    "title": "Advanced Python for Systems",
+    "provider": "Udemy",
+    "description": "Learn key competencies in Python, FastAPI.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "80cd8535-077e-447a-bcd9-f9ed32fd175d",
+    "title": "Advanced SQL & Database Tuning",
+    "provider": "Datacamp",
+    "description": "Learn key competencies in SQL, PostgreSQL.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "a4005214-fea8-46f4-8b95-1e4ff4820aa0",
+    "title": "React Development Masterclass",
+    "provider": "Udemy",
+    "description": "Learn key competencies in React, JavaScript, HTML, CSS.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "ee16a668-6361-4736-9b8c-c789ba6e20ab",
+    "title": "Docker Essentials for Developers",
+    "provider": "Pluralsight",
+    "description": "Learn key competencies in Docker.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "d49f2b1e-7162-4fc3-867b-cc27977a3534",
+    "title": "Kubernetes Fundamentals",
+    "provider": "Linux Foundation",
+    "description": "Learn key competencies in Kubernetes, Docker.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "81dd0ee3-e10b-4101-8dff-4519feb3505e",
+    "title": "AWS Cloud Architect Fundamentals",
+    "provider": "AWS Training",
+    "description": "Learn key competencies in AWS, Linux.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "f302fe3e-31c5-4915-808e-410a682f704c",
+    "title": "Machine Learning Fundamentals",
+    "provider": "Coursera",
+    "description": "Learn key competencies in Machine Learning, Python, Statistics.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "a22d4dfa-88e7-4c75-999f-69e52a13f304",
+    "title": "Advanced Machine Learning & Scikit-Learn",
+    "provider": "DeepLearning.AI",
+    "description": "Learn key competencies in Machine Learning, Scikit-learn, Python.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "3a78d3a8-767b-4c57-ad89-199033ebade5",
+    "title": "Deep Learning with TensorFlow",
+    "provider": "Coursera",
+    "description": "Learn key competencies in Deep Learning, TensorFlow, PyTorch.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "9eb91b97-0a69-4a72-b322-fe27e3bba47d",
+    "title": "MLOps Fundamentals",
+    "provider": "Udemy",
+    "description": "Learn key competencies in MLOps Engineer, Docker, Machine Learning, CI/CD.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "403cef52-903e-4e6b-8020-8a1073931942",
+    "title": "Generative AI & Prompt Engineering",
+    "provider": "DeepLearning.AI",
+    "description": "Learn key competencies in LLM, Prompt Engineering.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "60a64b4d-267c-4019-a4ad-d360e6ac7cfa",
+    "title": "RAG Application Development with Vector DBs",
+    "provider": "Udemy",
+    "description": "Learn key competencies in RAG, Vector Databases, Embeddings.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "c2728de9-c43e-4c45-a8e7-851c9646b3d9",
+    "title": "Power BI Analytics for Enterprise",
+    "provider": "Microsoft",
+    "description": "Learn key competencies in Power BI, Data Visualization, Excel.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c5214322-4a8b-4d12-9c14-cf5359e47ac6",
+    "title": "Cybersecurity Fundamentals",
+    "provider": "EdX",
+    "description": "Learn key competencies in Network Security, Threat Detection.",
+    "difficulty": "Beginner"
+  },
+  {
+    "id": "b9577610-7cbc-4051-b5e3-027a5b1b134f",
+    "title": "Leadership & Stakeholder Essentials",
+    "provider": "LinkedIn Learning",
+    "description": "Learn key competencies in Leadership, Stakeholder Management, Communication.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "f9fa5aa5-5d68-4596-b292-a0a88494e966",
+    "title": "Agile & Scrum Practitioner",
+    "provider": "Scrum.org",
+    "description": "Learn key competencies in Agile, Scrum, Requirement Analysis.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "b821b3d2-19c4-4502-9801-72d436fccf1d",
+    "title": "FastAPI Microservices Architecture",
+    "provider": "Udemy",
+    "description": "Learn key competencies in FastAPI, REST API, Microservices.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "c92f47ae-6c01-4fae-8adc-2d882a1973d0",
+    "title": "Data Engineering Pipelines with ETL",
+    "provider": "Coursera",
+    "description": "Learn key competencies in ETL, Data Warehousing, SQL.",
+    "difficulty": "Advanced"
+  },
+  {
+    "id": "11274be8-4079-4d01-ad85-e863226d9b7b",
+    "title": "Cloud Security Architecture",
+    "provider": "AWS Training",
+    "description": "Learn key competencies in Cloud Security, Vulnerability Assessment.",
+    "difficulty": "Advanced"
+  }
+]

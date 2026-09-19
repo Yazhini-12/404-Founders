@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Data temporary output if any
+*.log
+.ds_store
+.vscode/
+.idea/

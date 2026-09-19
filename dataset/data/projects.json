@@ -1,0 +1,58 @@
+[
+  {
+    "id": "d88b1690-9eed-4b39-aedc-c912b40c1be1",
+    "title": "High-Throughput Microservice Billing API",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Developed REST APIs using FastAPI and PostgreSQL and containerized services using Docker.",
+    "status": "active"
+  },
+  {
+    "id": "0eba44c7-0055-405d-9660-c012493be2bf",
+    "title": "Customer Churn Prediction Platform",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Built customer churn prediction models using Python, Pandas and Scikit-learn.",
+    "status": "active"
+  },
+  {
+    "id": "333e2a35-38cc-490b-934d-b8419bfefa38",
+    "title": "Multi-Cloud Infrastructure Automation",
+    "department_id": "9d88fcbe-41e2-4b2c-8ae3-edea8edbffa9",
+    "description": "Led a team and coordinated deployment of Kubernetes clusters with Terraform and AWS.",
+    "status": "active"
+  },
+  {
+    "id": "791b2572-0240-4c17-8346-31669043a87b",
+    "title": "Enterprise Knowledge Search with RAG & Vector DB",
+    "department_id": "94d0aa25-189d-4fa6-bbbf-dc4334891f5c",
+    "description": "Architected an internal AI assistant utilizing LLM embeddings, RAG pipelines, and vector databases.",
+    "status": "active"
+  },
+  {
+    "id": "c32acaa0-a3c1-4867-bf58-4f1b46ce6967",
+    "title": "Executive KPI Dashboard & ETL Pipeline",
+    "department_id": "ea12b488-a0a3-45a9-9c7c-f1c7da6bc8ce",
+    "description": "Designed Power BI dashboards fed by automated SQL ETL data warehousing pipelines.",
+    "status": "active"
+  },
+  {
+    "id": "4053e266-b479-4ad6-8fba-b1ce83778d28",
+    "title": "Cloud Security Monitoring & SIEM Guardrail",
+    "department_id": "1f5712d1-05f3-49a7-9781-886cbd77b69d",
+    "description": "Implemented SIEM threat detection alerts and automated vulnerability scanning across AWS accounts.",
+    "status": "active"
+  },
+  {
+    "id": "5b32654a-2864-416c-b3db-67ff0eca36e3",
+    "title": "Automated Web & API Regression Suite",
+    "department_id": "d91ed70e-5509-4074-b041-9dea03aa2b1f",
+    "description": "Built end-to-end API testing scripts and Selenium web automation suites for release verification.",
+    "status": "active"
+  },
+  {
+    "id": "f5f44dac-c7a3-4d67-845b-34d0340e1006",
+    "title": "Next-Gen Mobile Self-Service App",
+    "department_id": "af5f5ec7-b5a3-44b5-ad61-9e36f810f733",
+    "description": "Created responsive React and mobile user experiences backed by Node.js APIs.",
+    "status": "active"
+  }
+]

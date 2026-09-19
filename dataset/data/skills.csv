@@ -1,0 +1,76 @@
+id,name,category,description
+4352cf79-2000-4b4c-a3be-724e8a896174,Python,technical,"High-level programming language for web, data, and AI."
+e68c35f0-8416-427d-89b3-f9dade485651,Java,technical,Object-oriented enterprise programming language.
+62fda3ec-9eef-430c-8a1e-fca3eb205e79,JavaScript,technical,Dynamic script language for client-side and server-side web.
+a77d6c17-a31e-49fe-ac9f-7bf36800ccf0,TypeScript,technical,Typed superset of JavaScript.
+7ba9dcab-e274-4837-b26b-8ddfbf2664a1,C++,technical,Performance-critical system programming language.
+16c46e6c-223b-4521-8b6e-02686312ccaf,SQL,technical,Structured Query Language for database query and management.
+a0dc6906-6dba-4293-8320-6bf9ef5af941,HTML,technical,Standard markup language for document structure.
+d4783fea-e915-4f1a-9245-14a93e2d68b5,CSS,technical,Style sheet language for visual presentation.
+2b58d681-8e55-478e-b141-3aff29cad0fd,React,technical,Frontend UI library for component-based applications.
+3fdce963-18d3-4513-9215-fd41790bf688,Next.js,technical,React framework for server-side rendering and static sites.
+582f5336-44d1-44f8-bcca-c9db9972324f,Node.js,technical,JavaScript runtime for building backend APIs.
+f9659160-cac4-4e5b-9668-e1939d308c2a,Express.js,technical,Web app framework for Node.js.
+899f6441-4496-4d57-8cd5-c588956f561b,FastAPI,technical,Modern high-performance Python web framework.
+98ec08f3-dccf-473a-979a-5edf24ab4388,Spring Boot,technical,Java enterprise backend framework.
+5e4a8608-7ef1-43e5-8ee5-a86d5c9242e2,REST API,technical,Architectural style for Web APIs.
+e238b602-79c8-4c56-ab25-001821ec32d9,Microservices,technical,Distributed architecture pattern.
+ac46e3ce-936e-43f1-a213-76616dcd4393,PostgreSQL,technical,Advanced open-source relational database.
+3549b7ce-234c-4803-99fc-8e19c65e43c6,MongoDB,technical,Document-oriented NoSQL database.
+aec0cf32-2dab-4b75-9af4-ef1da1b76836,Redis,technical,In-memory data structure store for caching.
+ea31ee4d-610d-4982-a9f0-b402bafb05d8,Pandas,technical,Python data manipulation library.
+828c8c3b-34ec-416b-897b-c284cbffbf99,NumPy,technical,Numerical computing library for Python.
+d8619e4c-70e2-4d9d-acab-8a4ec2af3842,Power BI,domain,Business analytics tool for dynamic dashboards.
+98f1008a-dbc3-4ead-9486-a5e85a66c961,Excel,domain,Spreadsheet calculations and data analysis.
+df2c653a-8a63-42ba-b708-bfad266615da,Data Visualization,domain,Presenting complex data visually.
+bdb9b5da-2b2d-408a-9e77-aa304dbf61a8,Statistics,technical,Mathematical statistical modeling and analysis.
+e5f1aba6-b645-4ba0-80dd-1a0d184c470d,ETL,technical,"Extract, Transform, Load data pipelines."
+7207a95f-51be-4fbd-ae8f-31fc77f43ffb,Data Warehousing,domain,Central storage of integrated data.
+69c4b374-e0f9-4322-916c-fc2aca8c7c53,Machine Learning,technical,Algorithms learning patterns from data.
+f71aa9bb-68bb-4bdd-a6db-f3f3d5724369,Deep Learning,technical,Neural networks for complex decision making.
+d8820b57-4f6d-4ea5-908e-9865e6db8b1f,Scikit-learn,technical,Python machine learning toolkit.
+88bf48ab-bb09-42e3-9197-986f064d2252,TensorFlow,technical,Open source platform for machine learning models.
+61f83cd2-f4c7-4893-92f6-11580979700b,PyTorch,technical,Deep learning framework for tensor calculations.
+6d0c9a3b-f410-48bc-81ee-79a5d517bded,NLP,technical,Natural Language Processing.
+3994143c-c88b-4d2a-8b74-39e47fe39582,Computer Vision,technical,Visual data processing and pattern recognition.
+df73d56b-0da5-4af6-831f-1b98b9250f00,LLM,technical,Large Language Models fine-tuning and inference.
+3f040b2d-7d14-49cc-92c9-b3896ffd4699,RAG,technical,Retrieval-Augmented Generation for AI knowledge search.
+e1c7b39f-812a-455c-b6fa-e042fc05f092,Prompt Engineering,technical,Crafting optimal prompts for AI foundation models.
+5ace71b6-12ce-4046-b359-157b455cd14d,Vector Databases,technical,"High-dimensional vector storage (Pinecone, PGVector)."
+8550a797-0b53-4eea-8f6a-6715159af69e,Embeddings,technical,Vector representations of text and data.
+bd2dd30e-5753-4684-ad8b-defec1f4c6d6,AWS,technical,Amazon Web Services cloud computing suite.
+a272fa3e-ece0-4cc7-9785-67199e0ff887,Azure,technical,Microsoft Azure cloud services.
+178a2f9f-6d15-485e-a684-dcab469fb886,Docker,technical,Container deployment platform.
+29712980-fb4c-494d-8317-1defb0da8b25,Kubernetes,technical,Container orchestration system.
+e57a355f-4909-42b1-acf3-ae3970d39423,Linux,technical,Unix-like open source operating system.
+c32e2e45-987e-4fcc-a235-e19584801fe9,Terraform,technical,Infrastructure as Code tool.
+93d3bd3d-b72f-4062-a983-f92e0f17d667,CI/CD,technical,Continuous Integration and Continuous Deployment.
+488fe6e6-6184-4e1a-962c-149b2aac1dc6,Git,technical,Distributed version control system.
+03b0ecc6-acbc-481c-a46a-6f209ae8c73a,GitHub,technical,Code hosting and collaboration platform.
+118c74f7-930b-487f-8325-08223167ab57,Network Security,domain,Protecting network infrastructure from intrusion.
+cbd94fcb-d158-472a-97a4-e7aa8efb09b7,Cloud Security,domain,Securing cloud environments and workloads.
+f1101892-b628-4d5f-a515-0502665db3fc,SIEM,domain,Security Information and Event Management.
+f4870654-1f95-42fe-9c57-96db41d2382d,Threat Detection,domain,Identifying potential security risks.
+e6e5f73e-69dc-4311-9a45-4c2615602a44,Incident Response,domain,Managing and mitigating security incidents.
+1f82e66e-3f1d-4f9c-a3c3-fe70ef440608,Vulnerability Assessment,domain,Evaluating security weaknesses.
+c9e661cd-37bd-4132-a10b-7a766671ffa0,Selenium,technical,Web browser automation testing tool.
+d43c097b-a776-4490-9272-57f42fffc162,API Testing,technical,Validating functionality and security of REST APIs.
+cf646dbe-e071-4074-9f36-2e3e93349c85,Test Automation,technical,Automating software test suites.
+ab50dc81-1d1e-4856-a3c8-a6bb7c8249b1,Unit Testing,technical,Testing individual software components.
+82eb6ec3-15b4-4014-848b-e2839b7bdfcd,Business Analysis,domain,Identifying business needs and solutions.
+10f0b092-b575-4e08-aee1-88a90f97c1ac,Product Analytics,domain,Tracking user behavioral metrics.
+22163dd5-3390-4046-9b40-62efbb00f353,Requirement Analysis,domain,Gathering user stories and requirements.
+6c268b76-4bcf-48ef-85e3-c692f6f7fc75,Agile,transferable,Iterative software development approach.
+e5fff664-8a14-4eca-be8f-a782ba8cfa96,Scrum,transferable,Agile framework for team collaboration.
+27b67913-3fc7-415f-a8c1-bf16d08e5571,Communication,soft,Clear verbal and written information sharing.
+b025b85f-b3d4-4444-ab2d-66352c31426b,Leadership,soft,Guiding teams and inspiring goal achievement.
+13229b41-a1f2-4d2f-91a3-cb4638ce4cef,Problem Solving,transferable,Analytical approach to overcoming obstacles.
+1996f0fa-184e-4d28-b196-f9298c20286b,Team Collaboration,soft,Working effectively across peer groups.
+8bb81f9e-89ed-4b11-b0a2-95e0a93650ba,Analytical Thinking,transferable,Evaluating data logically.
+5e096574-8e3e-4068-916c-83807ed7f9a8,Stakeholder Management,transferable,Aligning project expectations with business leaders.
+5c409b16-8555-4de2-998f-80be95bf5e8e,Presentation,soft,Delivering effective talks and visual decks.
+bc04e445-148e-4b5a-852a-5d137e618c78,Decision Making,transferable,Choosing optimal paths under uncertainty.
+4221912c-baa3-4370-aa48-33833bd74399,Project Coordination,transferable,Managing timelines and project deliverables.
+30773fa6-1f73-4995-87e3-ad87d76ff0d6,Cross-functional Collaboration,transferable,Partnering across distinct business departments.
+95ca2857-397c-4d39-b31b-83c6946fc117,Time Management,soft,Prioritizing tasks and meeting deadlines.
+62563719-716d-4a95-ab7d-f58384ab6abc,Mentoring,soft,Coaching junior team members.
