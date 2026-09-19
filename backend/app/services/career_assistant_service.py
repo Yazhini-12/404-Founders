@@ -249,7 +249,7 @@ class CareerAssistantService:
                 prompt = f"Employee Question: {message}\n\nEmployee Verified Career Context:\n{json.dumps(context, indent=2)}"
 
                 # Try models in order of preference
-                for model_name in ["gemini-2.0-flash", "gemini-1.5-flash", "gemini-2.5-flash"]:
+                for model_name in ["gemini-3.6-flash"]:
                     try:
                         response = client.models.generate_content(
                             model=model_name,
